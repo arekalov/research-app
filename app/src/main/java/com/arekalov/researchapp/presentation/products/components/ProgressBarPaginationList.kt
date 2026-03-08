@@ -27,7 +27,8 @@ fun ProgressBarPaginationList(
     hasMorePages: Boolean,
     onProductClick: (Int) -> Unit,
     onLoadMore: () -> Unit,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    showFirstHundredHighlight: Boolean = false
 ) {
     val listState = rememberLazyListState()
     
@@ -61,7 +62,8 @@ fun ProgressBarPaginationList(
         ) { product ->
             ProductCard(
                 product = product,
-                onClick = { onProductClick(product.id) }
+                onClick = { onProductClick(product.id) },
+                showFirstHundredHighlight = showFirstHundredHighlight
             )
         }
         

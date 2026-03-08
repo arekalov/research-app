@@ -26,6 +26,7 @@ import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import com.arekalov.researchapp.BuildConfig
 import com.arekalov.researchapp.domain.model.PaginationMode
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -87,6 +88,17 @@ fun SettingsScreen(
                 selected = state.selectedMode == PaginationMode.PAGED,
                 onClick = { viewModel.onModeSelected(PaginationMode.PAGED) }
             )
+            
+            if (BuildConfig.FLAVOR == "dev") {
+                Spacer(modifier = Modifier.height(8.dp))
+                
+                PaginationModeOption(
+                    title = "DEV: Бесконечная загрузка",
+                    description = "Прогресс-бар + бесконечная лента + подсветка первых 100",
+                    selected = state.selectedMode == PaginationMode.DEV,
+                    onClick = { viewModel.onModeSelected(PaginationMode.DEV) }
+                )
+            }
         }
     }
 }

@@ -44,14 +44,20 @@ class ProductsViewModel @Inject constructor(
         viewModelScope.launch {
             _state.update { it.copy(isLoading = true, error = null) }
             
-            repository.getProducts(page = 0, pageSize = ProductsState.PAGE_SIZE)
+            val isUnlimited = _state.value.paginationMode == PaginationMode.DEV
+            
+            repository.getProducts(page = 0, pageSize = ProductsState.PAGE_SIZE, unlimited = isUnlimited)
                 .onSuccess { products ->
                     _state.update {
                         it.copy(
                             products = products,
                             isLoading = false,
                             currentPage = 0,
-                            hasMorePages = products.size == ProductsState.PAGE_SIZE && 0 < ProductsState.MAX_PAGES - 1
+                            hasMorePages = if (isUnlimited) {
+                                products.size == ProductsState.PAGE_SIZE
+                            } else {
+                                products.size == ProductsState.PAGE_SIZE && 0 < ProductsState.MAX_PAGES - 1
+                            }
                         )
                     }
                 }
@@ -101,7 +107,7 @@ class ProductsViewModel @Inject constructor(
             val nextPage = currentState.currentPage + 1
             
             when (currentState.paginationMode) {
-                PaginationMode.PROGRESS_BAR -> {
+                PaginationMode.PROGRESS_BAR, PaginationMode.DEV -> {
                     _state.update { it.copy(isLoadingMore = true) }
                     delay(1000) // Задержка в 1 секунду
                     loadPage(nextPage, isLoadingMore = true)
@@ -129,7 +135,9 @@ class ProductsViewModel @Inject constructor(
             _state.update { it.copy(isLoading = true) }
         }
         
-        repository.getProducts(page = page, pageSize = ProductsState.PAGE_SIZE)
+        val isUnlimited = _state.value.paginationMode == PaginationMode.DEV
+        
+        repository.getProducts(page = page, pageSize = ProductsState.PAGE_SIZE, unlimited = isUnlimited)
             .onSuccess { newProducts ->
                 _state.update { currentState ->
                     val updatedProducts = if (isPagedMode || currentState.paginationMode == PaginationMode.PAGED) {
@@ -143,7 +151,11 @@ class ProductsViewModel @Inject constructor(
                         isLoading = false,
                         isLoadingMore = false,
                         currentPage = page,
-                        hasMorePages = newProducts.size == ProductsState.PAGE_SIZE && page < ProductsState.MAX_PAGES - 1,
+                        hasMorePages = if (isUnlimited) {
+                            newProducts.size == ProductsState.PAGE_SIZE
+                        } else {
+                            newProducts.size == ProductsState.PAGE_SIZE && page < ProductsState.MAX_PAGES - 1
+                        },
                         error = null
                     )
                 }

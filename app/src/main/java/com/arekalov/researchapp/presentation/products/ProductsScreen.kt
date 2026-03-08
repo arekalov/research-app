@@ -107,6 +107,17 @@ fun ProductsScreen(
                                 onPreviousPage = { viewModel.onIntent(ProductsIntent.LoadPreviousPage) }
                             )
                         }
+                        
+                        PaginationMode.DEV -> {
+                            ProgressBarPaginationList(
+                                products = state.products,
+                                isLoadingMore = state.isLoadingMore,
+                                hasMorePages = state.hasMorePages,
+                                onProductClick = onNavigateToDetails,
+                                onLoadMore = { viewModel.onIntent(ProductsIntent.LoadNextPage) },
+                                showFirstHundredHighlight = true
+                            )
+                        }
                     }
                 }
             }

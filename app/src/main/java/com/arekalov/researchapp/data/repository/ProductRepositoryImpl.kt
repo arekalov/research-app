@@ -14,18 +14,25 @@ class ProductRepositoryImpl @Inject constructor(
         private const val MAX_PRODUCTS = 100
     }
     
-    override suspend fun getProducts(page: Int, pageSize: Int): Result<List<Product>> {
+    override suspend fun getProducts(page: Int, pageSize: Int, unlimited: Boolean): Result<List<Product>> {
         return try {
             val skip = page * pageSize
             
-            if (skip >= MAX_PRODUCTS) {
+            if (!unlimited && skip >= MAX_PRODUCTS) {
                 return Result.success(emptyList())
             }
             
-            val actualLimit = minOf(pageSize, MAX_PRODUCTS - skip)
+            val actualLimit = if (unlimited) {
+                pageSize
+            } else {
+                minOf(pageSize, MAX_PRODUCTS - skip)
+            }
             
             val response = api.getProducts(limit = actualLimit, skip = skip)
-            val products = response.products.map { it.toDomain() }
+            val products = response.products.mapIndexed { index, dto ->
+                val globalIndex = skip + index
+                dto.toDomain(isInFirstHundred = globalIndex < MAX_PRODUCTS)
+            }
             
             Result.success(products)
         } catch (e: Exception) {

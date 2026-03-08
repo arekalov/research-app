@@ -7,5 +7,6 @@ data class Product(
     val price: Double,
     val rating: Double,
     val thumbnail: String,
-    val images: List<String>
+    val images: List<String>,
+    val isInFirstHundred: Boolean = false
 )
