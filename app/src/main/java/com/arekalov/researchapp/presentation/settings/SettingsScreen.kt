@@ -65,8 +65,8 @@ fun SettingsScreen(
             )
             
             PaginationModeOption(
-                title = "Бесшовная пагинация",
-                description = "Товары загружаются автоматически при прокрутке",
+                title = "Режим 1",
+                description = "",
                 selected = state.selectedMode == PaginationMode.SEAMLESS,
                 onClick = { viewModel.onModeSelected(PaginationMode.SEAMLESS) }
             )
@@ -74,8 +74,8 @@ fun SettingsScreen(
             Spacer(modifier = Modifier.height(8.dp))
             
             PaginationModeOption(
-                title = "Пагинация с прогресс-баром",
-                description = "При достижении конца показывается прогресс-бар на 1 секунду",
+                title = "Режим 2",
+                description = "",
                 selected = state.selectedMode == PaginationMode.PROGRESS_BAR,
                 onClick = { viewModel.onModeSelected(PaginationMode.PROGRESS_BAR) }
             )
@@ -83,8 +83,8 @@ fun SettingsScreen(
             Spacer(modifier = Modifier.height(8.dp))
             
             PaginationModeOption(
-                title = "Страничная пагинация",
-                description = "Переключение страниц кнопками \"Назад\" и \"Вперед\"",
+                title = "Режим 3",
+                description = "",
                 selected = state.selectedMode == PaginationMode.PAGED,
                 onClick = { viewModel.onModeSelected(PaginationMode.PAGED) }
             )
@@ -135,11 +135,13 @@ private fun PaginationModeOption(
                 text = title,
                 style = MaterialTheme.typography.bodyLarge
             )
-            Text(
-                text = description,
-                style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
+            if (description.isNotBlank()) {
+                Text(
+                    text = description,
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+            }
         }
     }
 }

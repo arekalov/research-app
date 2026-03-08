@@ -8,5 +8,6 @@ data class Product(
     val rating: Double,
     val thumbnail: String,
     val images: List<String>,
-    val isInFirstHundred: Boolean = false
+    val isInFirstHundred: Boolean = false,
+    val globalIndex: Int = -1
 )

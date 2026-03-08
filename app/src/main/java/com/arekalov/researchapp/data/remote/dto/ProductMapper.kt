@@ -2,7 +2,7 @@ package com.arekalov.researchapp.data.remote.dto
 
 import com.arekalov.researchapp.domain.model.Product
 
-fun ProductDto.toDomain(isInFirstHundred: Boolean = false): Product {
+fun ProductDto.toDomain(isInFirstHundred: Boolean = false, globalIndex: Int = -1): Product {
     return Product(
         id = id,
         title = title,
@@ -11,6 +11,7 @@ fun ProductDto.toDomain(isInFirstHundred: Boolean = false): Product {
         rating = rating,
         thumbnail = thumbnail,
         images = images,
-        isInFirstHundred = isInFirstHundred
+        isInFirstHundred = isInFirstHundred,
+        globalIndex = globalIndex
     )
 }

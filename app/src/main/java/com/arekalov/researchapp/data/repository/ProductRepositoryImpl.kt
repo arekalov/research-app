@@ -31,7 +31,10 @@ class ProductRepositoryImpl @Inject constructor(
             val response = api.getProducts(limit = actualLimit, skip = skip)
             val products = response.products.mapIndexed { index, dto ->
                 val globalIndex = skip + index
-                dto.toDomain(isInFirstHundred = globalIndex < MAX_PRODUCTS)
+                dto.toDomain(
+                    isInFirstHundred = globalIndex < MAX_PRODUCTS,
+                    globalIndex = globalIndex
+                )
             }
             
             Result.success(products)

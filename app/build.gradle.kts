@@ -39,11 +39,14 @@ android {
         create("production") {
             dimension = "version"
             applicationIdSuffix = ""
+            buildConfigField("String", "HIGHLIGHTED_CARDS", "\"\"")
         }
         create("dev") {
             dimension = "version"
             applicationIdSuffix = ".dev"
             versionNameSuffix = "-dev"
+            // Индексы карточек через запятую (начиная с 0)
+            buildConfigField("String", "HIGHLIGHTED_CARDS", "\"14,57,84\"")
         }
     }
     compileOptions {

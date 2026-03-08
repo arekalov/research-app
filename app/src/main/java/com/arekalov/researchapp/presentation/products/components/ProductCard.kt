@@ -25,6 +25,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.arekalov.researchapp.domain.model.Product
+import com.arekalov.researchapp.util.HighlightConfig
 import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 import com.bumptech.glide.integration.compose.GlideImage
 
@@ -36,10 +37,14 @@ fun ProductCard(
     modifier: Modifier = Modifier,
     showFirstHundredHighlight: Boolean = false
 ) {
-    val backgroundColor = if (showFirstHundredHighlight && product.isInFirstHundred) {
-        Color(0xFFFFF8E1) // Светло-желтый фон для первых 100
-    } else {
-        MaterialTheme.colorScheme.surface
+    // Проверяем подсветку из BuildConfig
+    val isHighlightedByConfig = HighlightConfig.isHighlighted(product.globalIndex)
+    
+    // Определяем цвет фона
+    val backgroundColor = when {
+        isHighlightedByConfig -> Color(0xFFE1F5FE) // Светло-голубой для BuildConfig карточек
+        showFirstHundredHighlight && product.isInFirstHundred -> Color(0xFFFFF8E1) // Светло-желтый для первых 100
+        else -> MaterialTheme.colorScheme.surface
     }
     
     Card(
@@ -77,11 +82,24 @@ fun ProductCard(
                 
                 Spacer(modifier = Modifier.height(4.dp))
                 
-                Text(
-                    text = "$${product.price}",
-                    style = MaterialTheme.typography.titleLarge,
-                    color = MaterialTheme.colorScheme.primary
-                )
+                Row(
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = "$${product.price}",
+                        style = MaterialTheme.typography.titleLarge,
+                        color = MaterialTheme.colorScheme.primary
+                    )
+                    
+                    if (isHighlightedByConfig) {
+                        Spacer(modifier = Modifier.width(8.dp))
+                        Text(
+                            text = "#${product.globalIndex}",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.secondary
+                        )
+                    }
+                }
                 
                 Spacer(modifier = Modifier.height(4.dp))
                 

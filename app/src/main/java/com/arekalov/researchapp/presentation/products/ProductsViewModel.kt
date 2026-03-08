@@ -109,7 +109,7 @@ class ProductsViewModel @Inject constructor(
             when (currentState.paginationMode) {
                 PaginationMode.PROGRESS_BAR, PaginationMode.DEV -> {
                     _state.update { it.copy(isLoadingMore = true) }
-                    delay(1000) // Задержка в 1 секунду
+                    delay(2000) // Задержка в 2 секунды
                     loadPage(nextPage, isLoadingMore = true)
                 }
                 PaginationMode.SEAMLESS, PaginationMode.PAGED -> {
