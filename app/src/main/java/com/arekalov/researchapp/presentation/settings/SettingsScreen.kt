@@ -59,7 +59,7 @@ fun SettingsScreen(
                 .padding(16.dp)
         ) {
             Text(
-                text = "Режим пагинации",
+                text = "Режим",
                 style = MaterialTheme.typography.titleLarge,
                 modifier = Modifier.padding(bottom = 16.dp)
             )

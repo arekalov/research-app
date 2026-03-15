@@ -86,7 +86,7 @@ fun ProductCard(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
-                        text = "$${product.price}",
+                        text = "${product.price.toInt()} ₽",
                         style = MaterialTheme.typography.titleLarge,
                         color = MaterialTheme.colorScheme.primary
                     )

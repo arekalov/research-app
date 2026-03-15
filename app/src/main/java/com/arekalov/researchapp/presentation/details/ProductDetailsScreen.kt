@@ -111,7 +111,7 @@ fun ProductDetailsScreen(
                             modifier = Modifier.fillMaxWidth()
                         ) {
                             Text(
-                                text = "$${product.price}",
+                                text = "${product.price.toInt()} ₽",
                                 style = MaterialTheme.typography.headlineSmall,
                                 color = MaterialTheme.colorScheme.primary
                             )
