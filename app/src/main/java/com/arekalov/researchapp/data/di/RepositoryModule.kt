@@ -1,6 +1,6 @@
 package com.arekalov.researchapp.data.di
 
-import com.arekalov.researchapp.data.repository.ProductRepositoryImpl
+import com.arekalov.researchapp.data.local.LocalProductRepository
 import com.arekalov.researchapp.domain.repository.ProductRepository
 import dagger.Binds
 import dagger.Module
@@ -15,6 +15,6 @@ abstract class RepositoryModule {
     @Binds
     @Singleton
     abstract fun bindProductRepository(
-        productRepositoryImpl: ProductRepositoryImpl
+        localProductRepository: LocalProductRepository
     ): ProductRepository
 }

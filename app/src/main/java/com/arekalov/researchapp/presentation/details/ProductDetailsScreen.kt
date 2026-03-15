@@ -88,7 +88,7 @@ fun ProductDetailsScreen(
                             .padding(16.dp)
                     ) {
                         GlideImage(
-                            model = product.images.firstOrNull() ?: product.thumbnail,
+                            model = product.thumbnail,
                             contentDescription = product.title,
                             modifier = Modifier
                                 .fillMaxWidth()
@@ -147,29 +147,6 @@ fun ProductDetailsScreen(
                             style = MaterialTheme.typography.bodyLarge,
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
-                        
-                        if (product.images.size > 1) {
-                            Spacer(modifier = Modifier.height(24.dp))
-                            
-                            Text(
-                                text = "Дополнительные изображения",
-                                style = MaterialTheme.typography.titleLarge
-                            )
-                            
-                            Spacer(modifier = Modifier.height(8.dp))
-                            
-                            product.images.drop(1).forEach { imageUrl ->
-                                GlideImage(
-                                    model = imageUrl,
-                                    contentDescription = product.title,
-                                    modifier = Modifier
-                                        .fillMaxWidth()
-                                        .height(200.dp)
-                                        .padding(bottom = 8.dp),
-                                    contentScale = ContentScale.Crop
-                                )
-                            }
-                        }
                     }
                 }
             }
