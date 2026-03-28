@@ -1,5 +1,6 @@
 package com.arekalov.researchapp.presentation.products.components
 
+import android.content.res.Configuration
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
@@ -12,8 +13,12 @@ import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.arekalov.researchapp.domain.model.Product
+import com.arekalov.researchapp.presentation.preview.previewProducts
+import com.arekalov.researchapp.ui.theme.ResearchappTheme
+import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 
 @Composable
 fun SeamlessPaginationList(
@@ -59,5 +64,35 @@ fun SeamlessPaginationList(
                 onClick = { onProductClick(product.id) }
             )
         }
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Seamless список")
+@Composable
+private fun SeamlessPaginationListPreview() {
+    ResearchappTheme(darkTheme = false, dynamicColor = false) {
+        SeamlessPaginationList(
+            products = previewProducts(5),
+            isLoadingMore = false,
+            hasMorePages = true,
+            onProductClick = {},
+            onLoadMore = {}
+        )
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Seamless — тёмная", uiMode = Configuration.UI_MODE_NIGHT_YES)
+@Composable
+private fun SeamlessPaginationListPreviewDark() {
+    ResearchappTheme(darkTheme = true, dynamicColor = false) {
+        SeamlessPaginationList(
+            products = previewProducts(3),
+            isLoadingMore = false,
+            hasMorePages = false,
+            onProductClick = {},
+            onLoadMore = {}
+        )
     }
 }

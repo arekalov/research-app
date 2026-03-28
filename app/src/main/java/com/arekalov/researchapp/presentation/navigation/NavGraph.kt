@@ -1,6 +1,13 @@
 package com.arekalov.researchapp.presentation.navigation
 
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
@@ -10,6 +17,7 @@ import androidx.navigation.navArgument
 import com.arekalov.researchapp.presentation.details.ProductDetailsScreen
 import com.arekalov.researchapp.presentation.products.ProductsScreen
 import com.arekalov.researchapp.presentation.settings.SettingsScreen
+import com.arekalov.researchapp.ui.theme.ResearchappTheme
 
 sealed class Screen(val route: String) {
     data object Products : Screen("products")
@@ -57,6 +65,27 @@ fun NavGraph(
                     navController.popBackStack()
                 }
             )
+        }
+    }
+}
+
+@Preview(showBackground = true, name = "NavHost (без Hilt)")
+@Composable
+private fun NavGraphStubPreview() {
+    ResearchappTheme(darkTheme = false, dynamicColor = false) {
+        val navController = rememberNavController()
+        NavHost(
+            navController = navController,
+            startDestination = "preview_stub"
+        ) {
+            composable("preview_stub") {
+                Surface(Modifier.fillMaxSize()) {
+                    Text(
+                        text = "Превью графа навигации.\nПолный NavGraph с экранами требует Hilt — смотрите превью ProductsScreen, Settings, ProductDetails.",
+                        modifier = Modifier.padding(16.dp)
+                    )
+                }
+            }
         }
     }
 }

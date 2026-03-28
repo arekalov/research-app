@@ -1,5 +1,6 @@
 package com.arekalov.researchapp.presentation.products.components
 
+import android.content.res.Configuration
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.PaddingValues
@@ -17,8 +18,12 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.arekalov.researchapp.domain.model.Product
+import com.arekalov.researchapp.presentation.preview.previewProducts
+import com.arekalov.researchapp.ui.theme.ResearchappTheme
+import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 
 @Composable
 fun ProgressBarPaginationList(
@@ -79,5 +84,36 @@ fun ProgressBarPaginationList(
                 }
             }
         }
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Progress bar список")
+@Composable
+private fun ProgressBarPaginationListPreview() {
+    ResearchappTheme(darkTheme = false, dynamicColor = false) {
+        ProgressBarPaginationList(
+            products = previewProducts(4),
+            isLoadingMore = true,
+            hasMorePages = true,
+            onProductClick = {},
+            onLoadMore = {}
+        )
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Progress bar — DEV подсветка", uiMode = Configuration.UI_MODE_NIGHT_YES)
+@Composable
+private fun ProgressBarPaginationListPreviewDev() {
+    ResearchappTheme(darkTheme = true, dynamicColor = false) {
+        ProgressBarPaginationList(
+            products = previewProducts(3),
+            isLoadingMore = false,
+            hasMorePages = true,
+            onProductClick = {},
+            onLoadMore = {},
+            showFirstHundredHighlight = true
+        )
     }
 }

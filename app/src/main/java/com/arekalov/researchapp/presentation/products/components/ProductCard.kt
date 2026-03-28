@@ -1,6 +1,6 @@
 package com.arekalov.researchapp.presentation.products.components
 
-import androidx.compose.foundation.background
+import android.content.res.Configuration
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -23,9 +23,13 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.arekalov.researchapp.domain.model.Product
+import com.arekalov.researchapp.presentation.preview.previewProduct
+import com.arekalov.researchapp.ui.theme.ResearchappTheme
 import com.arekalov.researchapp.util.HighlightConfig
+import com.arekalov.researchapp.util.formatRubPrice
 import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 import com.bumptech.glide.integration.compose.GlideImage
 
@@ -86,7 +90,7 @@ fun ProductCard(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
-                        text = "${product.price.toInt()} ₽",
+                        text = formatRubPrice(product.price),
                         style = MaterialTheme.typography.titleLarge,
                         color = MaterialTheme.colorScheme.primary
                     )
@@ -121,5 +125,42 @@ fun ProductCard(
                 }
             }
         }
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Карточка — светлая")
+@Composable
+private fun ProductCardPreviewLight() {
+    ResearchappTheme(darkTheme = false, dynamicColor = false) {
+        ProductCard(
+            product = previewProduct(title = "Тушь для ресниц с очень длинным названием"),
+            onClick = {}
+        )
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Карточка — тёмная", uiMode = Configuration.UI_MODE_NIGHT_YES)
+@Composable
+private fun ProductCardPreviewDark() {
+    ResearchappTheme(darkTheme = true, dynamicColor = false) {
+        ProductCard(
+            product = previewProduct(title = "Пример товара"),
+            onClick = {}
+        )
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Карточка — подсветка первых 100")
+@Composable
+private fun ProductCardPreviewFirstHundred() {
+    ResearchappTheme {
+        ProductCard(
+            product = previewProduct(globalIndex = 5, isInFirstHundred = true),
+            onClick = {},
+            showFirstHundredHighlight = true
+        )
     }
 }

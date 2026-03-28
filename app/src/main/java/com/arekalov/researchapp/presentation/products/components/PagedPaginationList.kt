@@ -1,5 +1,6 @@
 package com.arekalov.researchapp.presentation.products.components
 
+import android.content.res.Configuration
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -20,8 +21,13 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.arekalov.researchapp.domain.model.Product
+import com.arekalov.researchapp.presentation.preview.previewProducts
+import com.arekalov.researchapp.presentation.products.ProductsState
+import com.arekalov.researchapp.ui.theme.ResearchappTheme
+import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 
 @Composable
 fun PagedPaginationList(
@@ -93,5 +99,41 @@ fun PagedPaginationList(
                 }
             }
         }
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Страничная пагинация")
+@Composable
+private fun PagedPaginationListPreview() {
+    ResearchappTheme(darkTheme = false, dynamicColor = false) {
+        PagedPaginationList(
+            products = previewProducts(4),
+            currentPage = 1,
+            totalPages = ProductsState.MAX_PAGES,
+            hasNextPage = true,
+            hasPreviousPage = true,
+            onProductClick = {},
+            onNextPage = {},
+            onPreviousPage = {}
+        )
+    }
+}
+
+@OptIn(ExperimentalGlideComposeApi::class)
+@Preview(showBackground = true, name = "Страничная — тёмная", uiMode = Configuration.UI_MODE_NIGHT_YES)
+@Composable
+private fun PagedPaginationListPreviewDark() {
+    ResearchappTheme(darkTheme = true, dynamicColor = false) {
+        PagedPaginationList(
+            products = previewProducts(2),
+            currentPage = 0,
+            totalPages = ProductsState.MAX_PAGES,
+            hasNextPage = true,
+            hasPreviousPage = false,
+            onProductClick = {},
+            onNextPage = {},
+            onPreviousPage = {}
+        )
     }
 }
