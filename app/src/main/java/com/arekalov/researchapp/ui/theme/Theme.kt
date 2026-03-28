@@ -43,20 +43,31 @@ private val RefinedDarkColorScheme = darkColorScheme(
     onErrorContainer = Color(0xFFFFDAD4)
 )
 
+/**
+ * Светлая тема: те же роли, что в [RefinedDarkColorScheme], с «высоким ключом» —
+ * спокойные контейнеры без кислотных дефолтов M3.
+ */
 private val LightColorScheme = lightColorScheme(
     primary = Purple40,
+    onPrimary = Color(0xFFFFFFFF),
+    primaryContainer = Color(0xFFE8EBF4),
+    onPrimaryContainer = Color(0xFF303848),
     secondary = PurpleGrey40,
-    tertiary = Pink40
-
-    /* Other default colors to override
-    background = Color(0xFFFFFBFE),
-    surface = Color(0xFFFFFBFE),
-    onPrimary = Color.White,
-    onSecondary = Color.White,
-    onTertiary = Color.White,
-    onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F),
-    */
+    onSecondary = Color(0xFFFFFFFF),
+    secondaryContainer = Color(0xFFEFEFF2),
+    onSecondaryContainer = Color(0xFF393B44),
+    tertiary = Pink40,
+    onTertiary = Color(0xFFFFFFFF),
+    tertiaryContainer = Color(0xFFF5EEF2),
+    onTertiaryContainer = Color(0xFF48404A),
+    background = Color(0xFFF8F9FB),
+    onBackground = Color(0xFF1B1D22),
+    surface = Color(0xFFFDFDFE),
+    onSurface = Color(0xFF1B1D22),
+    surfaceVariant = Color(0xFFE2E4EA),
+    onSurfaceVariant = Color(0xFF5C5F68),
+    outline = Color(0xFF8A8E98),
+    outlineVariant = Color(0xFFC8CCD4)
 )
 
 @Composable

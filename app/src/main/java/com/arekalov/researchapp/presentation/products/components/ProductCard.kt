@@ -20,7 +20,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
@@ -41,22 +40,36 @@ fun ProductCard(
     modifier: Modifier = Modifier,
     showFirstHundredHighlight: Boolean = false
 ) {
-    // Проверяем подсветку из BuildConfig
     val isHighlightedByConfig = HighlightConfig.isHighlighted(product.globalIndex)
-    
-    // Определяем цвет фона
-    val backgroundColor = when {
-        isHighlightedByConfig -> Color(0xFFE1F5FE) // Светло-голубой для BuildConfig карточек
-        showFirstHundredHighlight && product.isInFirstHundred -> Color(0xFFFFF8E1) // Светло-желтый для первых 100
-        else -> MaterialTheme.colorScheme.surface
+
+    val scheme = MaterialTheme.colorScheme
+    val (containerColor, contentColor, mutedContentColor) = when {
+        isHighlightedByConfig -> Triple(
+            scheme.primaryContainer,
+            scheme.onPrimaryContainer,
+            scheme.onPrimaryContainer.copy(alpha = 0.72f)
+        )
+        showFirstHundredHighlight && product.isInFirstHundred -> Triple(
+            scheme.secondaryContainer,
+            scheme.onSecondaryContainer,
+            scheme.onSecondaryContainer.copy(alpha = 0.72f)
+        )
+        else -> Triple(
+            scheme.surface,
+            scheme.onSurface,
+            scheme.onSurfaceVariant
+        )
     }
-    
+
     Card(
         modifier = modifier
             .fillMaxWidth()
             .clickable(onClick = onClick),
         elevation = CardDefaults.cardElevation(defaultElevation = 4.dp),
-        colors = CardDefaults.cardColors(containerColor = backgroundColor)
+        colors = CardDefaults.cardColors(
+            containerColor = containerColor,
+            contentColor = contentColor
+        )
     ) {
         Row(
             modifier = Modifier
@@ -80,6 +93,7 @@ fun ProductCard(
                 Text(
                     text = product.title,
                     style = MaterialTheme.typography.titleMedium,
+                    color = contentColor,
                     maxLines = 2,
                     overflow = TextOverflow.Ellipsis
                 )
@@ -92,17 +106,8 @@ fun ProductCard(
                     Text(
                         text = formatRubPrice(product.price),
                         style = MaterialTheme.typography.titleLarge,
-                        color = MaterialTheme.colorScheme.primary
+                        color = scheme.primary
                     )
-                    
-                    if (isHighlightedByConfig) {
-                        Spacer(modifier = Modifier.width(8.dp))
-                        Text(
-                            text = "#${product.globalIndex}",
-                            style = MaterialTheme.typography.bodySmall,
-                            color = MaterialTheme.colorScheme.secondary
-                        )
-                    }
                 }
                 
                 Spacer(modifier = Modifier.height(4.dp))
@@ -120,7 +125,7 @@ fun ProductCard(
                     Text(
                         text = String.format("%.1f", product.rating),
                         style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                        color = mutedContentColor
                     )
                 }
             }
