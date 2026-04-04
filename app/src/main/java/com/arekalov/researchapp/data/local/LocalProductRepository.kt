@@ -1,14 +1,16 @@
 package com.arekalov.researchapp.data.local
 
 import android.content.Context
-import com.arekalov.researchapp.data.remote.dto.ProductDto
-import com.arekalov.researchapp.data.remote.dto.toDomain
+import com.arekalov.researchapp.data.dto.ProductDto
+import com.arekalov.researchapp.data.dto.toDomain
 import com.arekalov.researchapp.domain.model.Product
+import com.arekalov.researchapp.domain.model.ProductListPage
 import com.arekalov.researchapp.domain.repository.ProductRepository
-import kotlinx.serialization.Serializable
-import kotlinx.serialization.json.Json
+import com.arekalov.researchapp.presentation.products.ProductsState
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
+import kotlinx.serialization.Serializable
+import kotlinx.serialization.json.Json
 
 @Serializable
 data class ProductsResponse(
@@ -18,56 +20,67 @@ data class ProductsResponse(
 class LocalProductRepository @Inject constructor(
     @ApplicationContext private val context: Context
 ) : ProductRepository {
-    
+
     private val json = Json {
         ignoreUnknownKeys = true
         isLenient = true
     }
-    
+
     private val allProducts: List<ProductDto> by lazy {
         val jsonString = context.assets.open("products.json").bufferedReader().use { it.readText() }
         val response = json.decodeFromString<ProductsResponse>(jsonString)
         response.products
     }
-    
-    override suspend fun getProducts(page: Int, pageSize: Int, unlimited: Boolean): Result<List<Product>> {
+
+    override suspend fun getProducts(page: Int, pageSize: Int, unlimited: Boolean): Result<ProductListPage> {
         return try {
             val skip = page * pageSize
-            
-            val products = if (unlimited) {
+
+            val slice = if (unlimited) {
                 if (skip >= allProducts.size) {
                     emptyList()
                 } else {
                     allProducts.drop(skip).take(pageSize)
                 }
             } else {
-                val maxItems = 100
-                if (skip >= maxItems) {
+                if (skip >= WORKING_MODES_MAX_ITEMS) {
                     emptyList()
                 } else {
-                    allProducts.drop(skip).take(pageSize.coerceAtMost(maxItems - skip))
+                    allProducts.drop(skip).take(pageSize.coerceAtMost(WORKING_MODES_MAX_ITEMS - skip))
                 }
             }
-            
-            val domainProducts = products.mapIndexed { index, productDto ->
+
+            val domainProducts = slice.mapIndexed { index, productDto ->
                 val globalIndex = skip + index
                 productDto.toDomain(
-                    isInFirstHundred = globalIndex < 100,
+                    isInFirstHundred = globalIndex < FIRST_HUNDRED_COUNT,
                     globalIndex = globalIndex
                 )
             }
-            
-            Result.success(domainProducts)
+
+            val hasMore = if (unlimited) {
+                skip + slice.size < allProducts.size
+            } else {
+                slice.size == pageSize && page < ProductsState.MAX_PAGES - 1
+            }
+
+            Result.success(ProductListPage(products = domainProducts, hasMore = hasMore))
         } catch (e: Exception) {
             Result.failure(e)
         }
     }
-    
+
     override suspend fun getProductById(id: Int): Result<Product> {
         return try {
-            val productDto = allProducts.find { it.id == id }
+            val index = allProducts.indexOfFirst { it.id == id }
+            val productDto = allProducts.getOrNull(index)
             if (productDto != null) {
-                Result.success(productDto.toDomain(isInFirstHundred = false, globalIndex = -1))
+                Result.success(
+                    productDto.toDomain(
+                        isInFirstHundred = index < FIRST_HUNDRED_COUNT,
+                        globalIndex = index
+                    )
+                )
             } else {
                 Result.failure(Exception("Product not found"))
             }
@@ -75,4 +88,12 @@ class LocalProductRepository @Inject constructor(
             Result.failure(e)
         }
     }
+
+    companion object {
+        /** В обычных режимах пагинации не больше стольких товаров; весь каталог (200) — только в режиме DEV. */
+        const val WORKING_MODES_MAX_ITEMS = 100
+
+        private const val FIRST_HUNDRED_COUNT = 100
+    }
 }
+

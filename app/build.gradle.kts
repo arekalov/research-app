@@ -19,6 +19,8 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        // Индексы карточек (0-based) для цветовой подсветки — одинаково в production и dev
+        buildConfigField("String", "HIGHLIGHTED_CARDS", "\"14,57,84\"")
     }
 
     buildTypes {
@@ -28,6 +30,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = signingConfigs.getByName("debug")
         }
         debug {
             isMinifyEnabled = false
@@ -39,14 +42,11 @@ android {
         create("production") {
             dimension = "version"
             applicationIdSuffix = ""
-            buildConfigField("String", "HIGHLIGHTED_CARDS", "\"\"")
         }
         create("dev") {
             dimension = "version"
             applicationIdSuffix = ".dev"
             versionNameSuffix = "-dev"
-            // Индексы карточек через запятую (начиная с 0)
-            buildConfigField("String", "HIGHLIGHTED_CARDS", "\"14,57,84\"")
         }
     }
     compileOptions {
@@ -76,12 +76,6 @@ dependencies {
     implementation(libs.hilt.android)
     kapt(libs.hilt.compiler)
     implementation(libs.hilt.navigation.compose)
-    
-    // Ktor
-    implementation(libs.ktor.client.android)
-    implementation(libs.ktor.client.content.negotiation)
-    implementation(libs.ktor.serialization.kotlinx.json)
-    implementation(libs.ktor.client.logging)
     
     // Kotlinx Serialization
     implementation(libs.kotlinx.serialization.json)

@@ -62,7 +62,11 @@ fun NavGraph(
         ) {
             ProductDetailsScreen(
                 onNavigateBack = {
-                    navController.popBackStack()
+                    navController.popBackStack(
+                        route = Screen.Products.route,
+                        inclusive = false,
+                        saveState = false
+                    )
                 }
             )
         }

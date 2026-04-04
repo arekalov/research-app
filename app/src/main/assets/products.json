@@ -6,9 +6,9 @@
             "description": "Бамбуковая лопатка - качественный товар с отличными характеристиками.",
             "price": 639.2,
             "rating": 3.27,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/bamboo-spatula/1.webp"
             ]
         },
         {
@@ -17,9 +17,9 @@
             "description": "Яблоко - качественный товар с отличными характеристиками.",
             "price": 159.2,
             "rating": 4.19,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/apple/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+                "file:///android_asset/bundled-images/groceries/apple/1.webp"
             ]
         },
         {
@@ -28,10 +28,10 @@
             "description": "Чёрная алюминиевая кружка - качественный товар с отличными характеристиками.",
             "price": 479.2,
             "rating": 4.46,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/black-aluminium-cup/1.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/black-aluminium-cup/2.webp"
             ]
         },
         {
@@ -40,9 +40,9 @@
             "description": "Говяжий стейк - качественный товар с отличными характеристиками.",
             "price": 1039.2,
             "rating": 4.47,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/beef-steak/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+                "file:///android_asset/bundled-images/groceries/beef-steak/1.webp"
             ]
         },
         {
@@ -51,9 +51,9 @@
             "description": "Чёрный венчик - качественный товар с отличными характеристиками.",
             "price": 799.2,
             "rating": 3.9,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/black-whisk/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/black-whisk/1.webp"
             ]
         },
         {
@@ -62,9 +62,9 @@
             "description": "Корм для кошек - свежий качественный продукт.",
             "price": 719.2,
             "rating": 3.13,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/cat-food/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+                "file:///android_asset/bundled-images/groceries/cat-food/1.webp"
             ]
         },
         {
@@ -73,12 +73,12 @@
             "description": "Блендер в коробке - практичная кухонная утварь.",
             "price": 3199.2,
             "rating": 4.56,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/boxed-blender/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/2.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/3.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/4.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/boxed-blender/1.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/boxed-blender/2.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/boxed-blender/3.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/boxed-blender/4.webp"
             ]
         },
         {
@@ -87,10 +87,10 @@
             "description": "Куриное мясо - свежий качественный продукт.",
             "price": 799.2,
             "rating": 3.19,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/chicken-meat/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
-                "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+                "file:///android_asset/bundled-images/groceries/chicken-meat/1.webp",
+                "file:///android_asset/bundled-images/groceries/chicken-meat/2.webp"
             ]
         },
         {
@@ -99,9 +99,9 @@
             "description": "Сковорода вок из углеродистой стали - практичная кухонная утварь.",
             "price": 2399.2,
             "rating": 4.05,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/carbon-steel-wok/1.webp"
             ]
         },
         {
@@ -110,9 +110,9 @@
             "description": "Растительное масло - качественный товар с отличными характеристиками.",
             "price": 399.2,
             "rating": 4.8,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/cooking-oil/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+                "file:///android_asset/bundled-images/groceries/cooking-oil/1.webp"
             ]
         },
         {
@@ -121,9 +121,9 @@
             "description": "Разделочная доска - качественный товар с отличными характеристиками.",
             "price": 1039.2,
             "rating": 3.7,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/chopping-board/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/chopping-board/1.webp"
             ]
         },
         {
@@ -132,9 +132,9 @@
             "description": "Огурец - качественный товар с отличными характеристиками.",
             "price": 119.2,
             "rating": 4.07,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/cucumber/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+                "file:///android_asset/bundled-images/groceries/cucumber/1.webp"
             ]
         },
         {
@@ -143,9 +143,9 @@
             "description": "Жёлтая соковыжималка для цитрусовых - свежий качественный продукт.",
             "price": 719.2,
             "rating": 4.63,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
             ]
         },
         {
@@ -154,9 +154,9 @@
             "description": "Корм для собак - свежий качественный продукт.",
             "price": 879.2,
             "rating": 4.55,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/dog-food/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+                "file:///android_asset/bundled-images/groceries/dog-food/1.webp"
             ]
         },
         {
@@ -165,9 +165,9 @@
             "description": "Яйцерезка - свежий качественный продукт.",
             "price": 559.2,
             "rating": 3.09,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/egg-slicer/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/egg-slicer/1.webp"
             ]
         },
         {
@@ -176,9 +176,9 @@
             "description": "Яйца - свежий качественный продукт.",
             "price": 239.2,
             "rating": 2.53,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/eggs/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+                "file:///android_asset/bundled-images/groceries/eggs/1.webp"
             ]
         },
         {
@@ -187,12 +187,12 @@
             "description": "Электрическая плита - качественный товар с отличными характеристиками.",
             "price": 3999.2,
             "rating": 4.11,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/electric-stove/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/2.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/3.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/4.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/electric-stove/1.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/electric-stove/2.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/electric-stove/3.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/electric-stove/4.webp"
             ]
         },
         {
@@ -201,9 +201,9 @@
             "description": "Стейк из рыбы - качественный товар с отличными характеристиками.",
             "price": 1199.2,
             "rating": 3.78,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/fish-steak/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+                "file:///android_asset/bundled-images/groceries/fish-steak/1.webp"
             ]
         },
         {
@@ -212,9 +212,9 @@
             "description": "Мелкое сито - качественный товар с отличными характеристиками.",
             "price": 799.2,
             "rating": 3.04,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/fine-mesh-strainer/1.webp"
             ]
         },
         {
@@ -223,9 +223,9 @@
             "description": "Зелёный болгарский перец - качественный товар с отличными характеристиками.",
             "price": 103.2,
             "rating": 3.25,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/green-bell-pepper/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+                "file:///android_asset/bundled-images/groceries/green-bell-pepper/1.webp"
             ]
         },
         {
@@ -234,9 +234,9 @@
             "description": "Вилка - практичная кухонная утварь.",
             "price": 319.2,
             "rating": 3.11,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/fork/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/fork/1.webp"
             ]
         },
         {
@@ -245,9 +245,9 @@
             "description": "Американский футбольный мяч - спортивный инвентарь для активного образа жизни.",
             "price": 1599.2,
             "rating": 4.91,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/american-football/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/american-football/1.webp"
             ]
         },
         {
@@ -256,9 +256,9 @@
             "description": "Стакан - качественный товар с отличными характеристиками.",
             "price": 399.2,
             "rating": 4.02,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/glass/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/glass/1.webp"
             ]
         },
         {
@@ -267,9 +267,9 @@
             "description": "Зелёный перец чили - качественный товар с отличными характеристиками.",
             "price": 79.2,
             "rating": 3.66,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/green-chili-pepper/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+                "file:///android_asset/bundled-images/groceries/green-chili-pepper/1.webp"
             ]
         },
         {
@@ -278,9 +278,9 @@
             "description": "Чёрная тёрка - качественный товар с отличными характеристиками.",
             "price": 879.2,
             "rating": 3.21,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/grater-black/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/grater-black/1.webp"
             ]
         },
         {
@@ -289,9 +289,9 @@
             "description": "Бейсбольный мяч - спортивный инвентарь для активного образа жизни.",
             "price": 719.2,
             "rating": 2.57,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/baseball-ball/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/baseball-ball/1.webp"
             ]
         },
         {
@@ -300,9 +300,9 @@
             "description": "Ручной блендер - практичная кухонная утварь.",
             "price": 2799.2,
             "rating": 3.86,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/hand-blender/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/hand-blender/1.webp"
             ]
         },
         {
@@ -311,11 +311,11 @@
             "description": "Смартфон iPhone 5s - современный смартфон с передовыми технологиями и функциями.",
             "price": 15999.2,
             "rating": 2.83,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/iphone-5s/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/3.webp"
+                "file:///android_asset/bundled-images/smartphones/iphone-5s/1.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-5s/2.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-5s/3.webp"
             ]
         },
         {
@@ -324,9 +324,9 @@
             "description": "Форма для льда - качественный товар с отличными характеристиками.",
             "price": 479.2,
             "rating": 4.71,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/ice-cube-tray/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/ice-cube-tray/1.webp"
             ]
         },
         {
@@ -335,9 +335,9 @@
             "description": "Банка мёда - качественный товар с отличными характеристиками.",
             "price": 559.2,
             "rating": 3.97,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/honey-jar/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+                "file:///android_asset/bundled-images/groceries/honey-jar/1.webp"
             ]
         },
         {
@@ -346,11 +346,11 @@
             "description": "Бейсбольная перчатка - качественный товар с отличными характеристиками.",
             "price": 1999.2,
             "rating": 3.96,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/baseball-glove/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
-                "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/2.webp",
-                "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/3.webp"
+                "file:///android_asset/bundled-images/sports-accessories/baseball-glove/1.webp",
+                "file:///android_asset/bundled-images/sports-accessories/baseball-glove/2.webp",
+                "file:///android_asset/bundled-images/sports-accessories/baseball-glove/3.webp"
             ]
         },
         {
@@ -359,11 +359,11 @@
             "description": "Смартфон iPhone 6 - современный смартфон с передовыми технологиями и функциями.",
             "price": 23999.2,
             "rating": 3.41,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/iphone-6/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/3.webp"
+                "file:///android_asset/bundled-images/smartphones/iphone-6/1.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-6/2.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-6/3.webp"
             ]
         },
         {
@@ -372,9 +372,9 @@
             "description": "Кухонное сито - практичная кухонная утварь.",
             "price": 639.2,
             "rating": 3.09,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/kitchen-sieve/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/kitchen-sieve/1.webp"
             ]
         },
         {
@@ -383,12 +383,12 @@
             "description": "Мороженое - качественный товар с отличными характеристиками.",
             "price": 439.2,
             "rating": 3.39,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/ice-cream/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
-                "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
-                "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
-                "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+                "file:///android_asset/bundled-images/groceries/ice-cream/1.webp",
+                "file:///android_asset/bundled-images/groceries/ice-cream/2.webp",
+                "file:///android_asset/bundled-images/groceries/ice-cream/3.webp",
+                "file:///android_asset/bundled-images/groceries/ice-cream/4.webp"
             ]
         },
         {
@@ -397,9 +397,9 @@
             "description": "Баскетбольный мяч - спортивный инвентарь для активного образа жизни.",
             "price": 1199.2,
             "rating": 4.66,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/basketball/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/basketball/1.webp"
             ]
         },
         {
@@ -408,11 +408,11 @@
             "description": "Смартфон iPhone 13 Pro - современный смартфон с передовыми технологиями и функциями.",
             "price": 87999.2,
             "rating": 4.12,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/iphone-13-pro/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/3.webp"
+                "file:///android_asset/bundled-images/smartphones/iphone-13-pro/1.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-13-pro/2.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-13-pro/3.webp"
             ]
         },
         {
@@ -421,10 +421,10 @@
             "description": "Умная колонка Amazon Echo Plus - мощная колонка с качественным звуком.",
             "price": 7999.2,
             "rating": 4.99,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/amazon-echo-plus/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/amazon-echo-plus/2.webp"
             ]
         },
         {
@@ -433,9 +433,9 @@
             "description": "Нож - практичная кухонная утварь.",
             "price": 1199.2,
             "rating": 3.26,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/knife/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/knife/1.webp"
             ]
         },
         {
@@ -444,9 +444,9 @@
             "description": "Сок - свежий качественный продукт.",
             "price": 319.2,
             "rating": 3.94,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/juice/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+                "file:///android_asset/bundled-images/groceries/juice/1.webp"
             ]
         },
         {
@@ -455,9 +455,9 @@
             "description": "Баскетбольное кольцо - качественный товар с отличными характеристиками.",
             "price": 3199.2,
             "rating": 4.6,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/basketball-rim/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/basketball-rim/1.webp"
             ]
         },
         {
@@ -466,11 +466,11 @@
             "description": "Смартфон iPhone X - современный смартфон с передовыми технологиями и функциями.",
             "price": 71999.2,
             "rating": 2.51,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/iphone-x/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/3.webp"
+                "file:///android_asset/bundled-images/smartphones/iphone-x/1.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-x/2.webp",
+                "file:///android_asset/bundled-images/smartphones/iphone-x/3.webp"
             ]
         },
         {
@@ -479,11 +479,11 @@
             "description": "Наушники Apple AirPods - качественные наушники с отличным звуком.",
             "price": 10399.2,
             "rating": 4.15,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-airpods/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/3.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-airpods/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/apple-airpods/2.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/apple-airpods/3.webp"
             ]
         },
         {
@@ -492,9 +492,9 @@
             "description": "Ланч-бокс - качественный товар с отличными характеристиками.",
             "price": 1039.2,
             "rating": 4.93,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/lunch-box/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/lunch-box/1.webp"
             ]
         },
         {
@@ -503,9 +503,9 @@
             "description": "Киви - качественный товар с отличными характеристиками.",
             "price": 199.2,
             "rating": 4.93,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/kiwi/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+                "file:///android_asset/bundled-images/groceries/kiwi/1.webp"
             ]
         },
         {
@@ -514,9 +514,9 @@
             "description": "Мяч для крикета - спортивный инвентарь для активного образа жизни.",
             "price": 1039.2,
             "rating": 3.53,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/cricket-ball/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/cricket-ball/1.webp"
             ]
         },
         {
@@ -525,11 +525,11 @@
             "description": "Смартфон Oppo A57 - современный смартфон с передовыми технологиями и функциями.",
             "price": 19999.2,
             "rating": 3.94,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/oppo-a57/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/3.webp"
+                "file:///android_asset/bundled-images/smartphones/oppo-a57/1.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-a57/2.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-a57/3.webp"
             ]
         },
         {
@@ -538,9 +538,9 @@
             "description": "Наушники Apple AirPods Max Silver - качественные наушники с отличным звуком.",
             "price": 43999.2,
             "rating": 3.47,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-airpods-max-silver/1.webp"
             ]
         },
         {
@@ -549,12 +549,12 @@
             "description": "Микроволновая печь - качественный товар с отличными характеристиками.",
             "price": 7199.2,
             "rating": 4.82,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/microwave-oven/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/2.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/3.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/4.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/microwave-oven/1.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/microwave-oven/2.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/microwave-oven/3.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/microwave-oven/4.webp"
             ]
         },
         {
@@ -563,9 +563,9 @@
             "description": "Лимон - качественный товар с отличными характеристиками.",
             "price": 63.2,
             "rating": 3.53,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/lemon/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+                "file:///android_asset/bundled-images/groceries/lemon/1.webp"
             ]
         },
         {
@@ -574,9 +574,9 @@
             "description": "Бита для крикета - качественный товар с отличными характеристиками.",
             "price": 2399.2,
             "rating": 3.17,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/cricket-bat/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/cricket-bat/1.webp"
             ]
         },
         {
@@ -585,11 +585,11 @@
             "description": "Смартфон Oppo F19 Pro Plus - современный смартфон с передовыми технологиями и функциями.",
             "price": 31999.2,
             "rating": 3.51,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/oppo-f19-pro-plus/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/3.webp"
+                "file:///android_asset/bundled-images/smartphones/oppo-f19-pro-plus/1.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-f19-pro-plus/2.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-f19-pro-plus/3.webp"
             ]
         },
         {
@@ -598,9 +598,9 @@
             "description": "Беспроводное зарядное устройство Apple AirPower - качественный товар с отличными характеристиками.",
             "price": 6399.2,
             "rating": 3.68,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
             ]
         },
         {
@@ -609,10 +609,10 @@
             "description": "Подставка для кружек - качественный товар с отличными характеристиками.",
             "price": 1279.2,
             "rating": 2.64,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/mug-tree-stand/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/2.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/mug-tree-stand/1.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/mug-tree-stand/2.webp"
             ]
         },
         {
@@ -621,9 +621,9 @@
             "description": "Молоко - свежий качественный продукт.",
             "price": 279.2,
             "rating": 2.61,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/milk/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+                "file:///android_asset/bundled-images/groceries/milk/1.webp"
             ]
         },
         {
@@ -632,12 +632,12 @@
             "description": "Шлем для крикета - качественный товар с отличными характеристиками.",
             "price": 3599.2,
             "rating": 4.69,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/cricket-helmet/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp",
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/2.webp",
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/3.webp",
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/4.webp"
+                "file:///android_asset/bundled-images/sports-accessories/cricket-helmet/1.webp",
+                "file:///android_asset/bundled-images/sports-accessories/cricket-helmet/2.webp",
+                "file:///android_asset/bundled-images/sports-accessories/cricket-helmet/3.webp",
+                "file:///android_asset/bundled-images/sports-accessories/cricket-helmet/4.webp"
             ]
         },
         {
@@ -646,12 +646,12 @@
             "description": "Смартфон Oppo K1 - современный смартфон с передовыми технологиями и функциями.",
             "price": 23999.2,
             "rating": 4.25,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/oppo-k1/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/3.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/4.webp"
+                "file:///android_asset/bundled-images/smartphones/oppo-k1/1.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-k1/2.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-k1/3.webp",
+                "file:///android_asset/bundled-images/smartphones/oppo-k1/4.webp"
             ]
         },
         {
@@ -660,9 +660,9 @@
             "description": "Умная колонка Apple HomePod Mini Cosmic Grey - мощная колонка с качественным звуком.",
             "price": 7999.2,
             "rating": 4.62,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
             ]
         },
         {
@@ -671,9 +671,9 @@
             "description": "Сковорода - практичная кухонная утварь.",
             "price": 1999.2,
             "rating": 2.79,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/pan/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/pan/1.webp"
             ]
         },
         {
@@ -682,9 +682,9 @@
             "description": "Шелковица - качественный товар с отличными характеристиками.",
             "price": 399.2,
             "rating": 4.95,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/mulberry/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+                "file:///android_asset/bundled-images/groceries/mulberry/1.webp"
             ]
         },
         {
@@ -693,9 +693,9 @@
             "description": "Калитка для крикета - качественный товар с отличными характеристиками.",
             "price": 2399.2,
             "rating": 4.73,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/cricket-wicket/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/cricket-wicket/1.webp"
             ]
         },
         {
@@ -704,11 +704,11 @@
             "description": "Смартфон Realme C35 - современный смартфон с передовыми технологиями и функциями.",
             "price": 11999.2,
             "rating": 4.2,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/realme-c35/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/3.webp"
+                "file:///android_asset/bundled-images/smartphones/realme-c35/1.webp",
+                "file:///android_asset/bundled-images/smartphones/realme-c35/2.webp",
+                "file:///android_asset/bundled-images/smartphones/realme-c35/3.webp"
             ]
         },
         {
@@ -717,10 +717,10 @@
             "description": "Зарядное устройство Apple iPhone - современный смартфон с передовыми технологиями и функциями.",
             "price": 1599.2,
             "rating": 4.15,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/2.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-iphone-charger/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/apple-iphone-charger/2.webp"
             ]
         },
         {
@@ -729,9 +729,9 @@
             "description": "Тарелка - практичная кухонная утварь.",
             "price": 319.2,
             "rating": 3.65,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/plate/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/plate/1.webp"
             ]
         },
         {
@@ -740,9 +740,9 @@
             "description": "Кофе Nescafe - качественный товар с отличными характеристиками.",
             "price": 639.2,
             "rating": 4.82,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/nescafe-coffee/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+                "file:///android_asset/bundled-images/groceries/nescafe-coffee/1.webp"
             ]
         },
         {
@@ -751,9 +751,9 @@
             "description": "Воланчик с перьями - качественный товар с отличными характеристиками.",
             "price": 479.2,
             "rating": 2.85,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/feather-shuttlecock/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/feather-shuttlecock/1.webp"
             ]
         },
         {
@@ -762,11 +762,11 @@
             "description": "Смартфон Realme X - современный смартфон с передовыми технологиями и функциями.",
             "price": 23999.2,
             "rating": 3.7,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/realme-x/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-x/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-x/3.webp"
+                "file:///android_asset/bundled-images/smartphones/realme-x/1.webp",
+                "file:///android_asset/bundled-images/smartphones/realme-x/2.webp",
+                "file:///android_asset/bundled-images/smartphones/realme-x/3.webp"
             ]
         },
         {
@@ -775,10 +775,10 @@
             "description": "Аккумулятор Apple MagSafe Battery Pack - качественный товар с отличными характеристиками.",
             "price": 7999.2,
             "rating": 3.62,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/2.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/apple-magsafe-battery-pack/2.webp"
             ]
         },
         {
@@ -787,9 +787,9 @@
             "description": "Красные щипцы - качественный товар с отличными характеристиками.",
             "price": 559.2,
             "rating": 4.42,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/red-tongs/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/red-tongs/1.webp"
             ]
         },
         {
@@ -798,9 +798,9 @@
             "description": "Картофель - качественный товар с отличными характеристиками.",
             "price": 183.2,
             "rating": 4.81,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/potatoes/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+                "file:///android_asset/bundled-images/groceries/potatoes/1.webp"
             ]
         },
         {
@@ -809,9 +809,9 @@
             "description": "Футбольный мяч - спортивный инвентарь для активного образа жизни.",
             "price": 1439.2,
             "rating": 3.28,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/football/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/football/1.webp"
             ]
         },
         {
@@ -820,11 +820,11 @@
             "description": "Смартфон Realme XT - современный смартфон с передовыми технологиями и функциями.",
             "price": 27999.2,
             "rating": 4.58,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/realme-xt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/3.webp"
+                "file:///android_asset/bundled-images/smartphones/realme-xt/1.webp",
+                "file:///android_asset/bundled-images/smartphones/realme-xt/2.webp",
+                "file:///android_asset/bundled-images/smartphones/realme-xt/3.webp"
             ]
         },
         {
@@ -833,11 +833,11 @@
             "description": "Часы Apple Watch Series 4 Gold - стильные часы, сочетающие функциональность и элегантность.",
             "price": 27999.2,
             "rating": 2.74,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/2.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/3.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/apple-watch-series-4-gold/2.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/apple-watch-series-4-gold/3.webp"
             ]
         },
         {
@@ -846,9 +846,9 @@
             "description": "Серебристая кастрюля со стеклянной крышкой - практичная кухонная утварь.",
             "price": 3199.2,
             "rating": 3.22,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp"
             ]
         },
         {
@@ -857,9 +857,9 @@
             "description": "Протеиновый порошок - качественный товар с отличными характеристиками.",
             "price": 1599.2,
             "rating": 4.18,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/protein-powder/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+                "file:///android_asset/bundled-images/groceries/protein-powder/1.webp"
             ]
         },
         {
@@ -868,9 +868,9 @@
             "description": "Мяч для гольфа - спортивный инвентарь для активного образа жизни.",
             "price": 799.2,
             "rating": 4.3,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/golf-ball/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/golf-ball/1.webp"
             ]
         },
         {
@@ -879,11 +879,11 @@
             "description": "Смартфон Samsung Galaxy S7 - современный смартфон с передовыми технологиями и функциями.",
             "price": 23999.2,
             "rating": 3.3,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s7/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/3.webp"
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s7/1.webp",
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s7/2.webp",
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s7/3.webp"
             ]
         },
         {
@@ -892,9 +892,9 @@
             "description": "Беспроводные наушники Beats Flex - качественные наушники с отличным звуком.",
             "price": 3999.2,
             "rating": 4.24,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
             ]
         },
         {
@@ -903,11 +903,11 @@
             "description": "Часы с коричневым кожаным ремешком - стильные часы, сочетающие функциональность и элегантность.",
             "price": 7199.2,
             "rating": 4.19,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
+                "file:///android_asset/bundled-images/mens-watches/brown-leather-belt-watch/1.webp",
+                "file:///android_asset/bundled-images/mens-watches/brown-leather-belt-watch/2.webp",
+                "file:///android_asset/bundled-images/mens-watches/brown-leather-belt-watch/3.webp"
             ]
         },
         {
@@ -916,9 +916,9 @@
             "description": "Лопатка с прорезями - качественный товар с отличными характеристиками.",
             "price": 719.2,
             "rating": 3.4,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/slotted-turner/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/slotted-turner/1.webp"
             ]
         },
         {
@@ -927,9 +927,9 @@
             "description": "Красный лук - качественный товар с отличными характеристиками.",
             "price": 159.2,
             "rating": 4.2,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/red-onions/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+                "file:///android_asset/bundled-images/groceries/red-onions/1.webp"
             ]
         },
         {
@@ -938,11 +938,11 @@
             "description": "Часы IWC Ingenieur Automatic Steel - стильные часы, сочетающие функциональность и элегантность.",
             "price": 399999.2,
             "rating": 2.93,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-watches/iwc-ingenieur-automatic-steel/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/3.webp"
+                "file:///android_asset/bundled-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
+                "file:///android_asset/bundled-images/womens-watches/iwc-ingenieur-automatic-steel/2.webp",
+                "file:///android_asset/bundled-images/womens-watches/iwc-ingenieur-automatic-steel/3.webp"
             ]
         },
         {
@@ -951,12 +951,12 @@
             "description": "Чёрно-коричневые тапочки - удобная обувь на каждый день.",
             "price": 1599.2,
             "rating": 2.53,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-shoes/black-&-brown-slipper/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/4.webp"
+                "file:///android_asset/bundled-images/womens-shoes/black-&-brown-slipper/1.webp",
+                "file:///android_asset/bundled-images/womens-shoes/black-&-brown-slipper/2.webp",
+                "file:///android_asset/bundled-images/womens-shoes/black-&-brown-slipper/3.webp",
+                "file:///android_asset/bundled-images/womens-shoes/black-&-brown-slipper/4.webp"
             ]
         },
         {
@@ -965,12 +965,12 @@
             "description": "Чёрное женское вечернее платье - стильная одежда из качественных материалов.",
             "price": 10399.2,
             "rating": 3.64,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-dresses/black-women's-gown/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/4.webp"
+                "file:///android_asset/bundled-images/womens-dresses/black-women's-gown/1.webp",
+                "file:///android_asset/bundled-images/womens-dresses/black-women's-gown/2.webp",
+                "file:///android_asset/bundled-images/womens-dresses/black-women's-gown/3.webp",
+                "file:///android_asset/bundled-images/womens-dresses/black-women's-gown/4.webp"
             ]
         },
         {
@@ -979,11 +979,11 @@
             "description": "Синяя женская сумка - практичный аксессуар для переноски вещей.",
             "price": 3999.2,
             "rating": 2.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-bags/blue-women's-handbag/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/3.webp"
+                "file:///android_asset/bundled-images/womens-bags/blue-women's-handbag/1.webp",
+                "file:///android_asset/bundled-images/womens-bags/blue-women's-handbag/2.webp",
+                "file:///android_asset/bundled-images/womens-bags/blue-women's-handbag/3.webp"
             ]
         },
         {
@@ -992,14 +992,14 @@
             "description": "Dodge 300 Touring - комфортный автомобиль с современными функциями.",
             "price": 2319999.2,
             "rating": 4.05,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/vehicle/300-touring/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/300-touring/2.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/300-touring/3.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/300-touring/4.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/300-touring/5.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/300-touring/6.webp"
+                "file:///android_asset/bundled-images/vehicle/300-touring/1.webp",
+                "file:///android_asset/bundled-images/vehicle/300-touring/2.webp",
+                "file:///android_asset/bundled-images/vehicle/300-touring/3.webp",
+                "file:///android_asset/bundled-images/vehicle/300-touring/4.webp",
+                "file:///android_asset/bundled-images/vehicle/300-touring/5.webp",
+                "file:///android_asset/bundled-images/vehicle/300-touring/6.webp"
             ]
         },
         {
@@ -1008,12 +1008,12 @@
             "description": "Синее платье - стильная одежда из качественных материалов.",
             "price": 2399.2,
             "rating": 4.17,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tops/blue-frock/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
-                "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp",
-                "https://cdn.dummyjson.com/product-images/tops/blue-frock/3.webp",
-                "https://cdn.dummyjson.com/product-images/tops/blue-frock/4.webp"
+                "file:///android_asset/bundled-images/tops/blue-frock/1.webp",
+                "file:///android_asset/bundled-images/tops/blue-frock/2.webp",
+                "file:///android_asset/bundled-images/tops/blue-frock/3.webp",
+                "file:///android_asset/bundled-images/tops/blue-frock/4.webp"
             ]
         },
         {
@@ -1022,11 +1022,11 @@
             "description": "Чёрные солнцезащитные очки - стильные очки с защитой от солнца.",
             "price": 2399.2,
             "rating": 4.41,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sunglasses/black-sun-glasses/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
+                "file:///android_asset/bundled-images/sunglasses/black-sun-glasses/1.webp",
+                "file:///android_asset/bundled-images/sunglasses/black-sun-glasses/2.webp",
+                "file:///android_asset/bundled-images/sunglasses/black-sun-glasses/3.webp"
             ]
         },
         {
@@ -1035,9 +1035,9 @@
             "description": "Клюшка для гольфа - качественный товар с отличными характеристиками.",
             "price": 3999.2,
             "rating": 4.41,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/iron-golf/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/iron-golf/1.webp"
             ]
         },
         {
@@ -1046,11 +1046,11 @@
             "description": "Смартфон Samsung Galaxy S8 - современный смартфон с передовыми технологиями и функциями.",
             "price": 39999.2,
             "rating": 4.4,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s8/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/3.webp"
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s8/1.webp",
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s8/2.webp",
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s8/3.webp"
             ]
         },
         {
@@ -1059,12 +1059,12 @@
             "description": "Мотоцикл - надёжный транспорт для передвижения.",
             "price": 319999.2,
             "rating": 4.91,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/motorcycle/generic-motorcycle/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/2.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/3.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/4.webp"
+                "file:///android_asset/bundled-images/motorcycle/generic-motorcycle/1.webp",
+                "file:///android_asset/bundled-images/motorcycle/generic-motorcycle/2.webp",
+                "file:///android_asset/bundled-images/motorcycle/generic-motorcycle/3.webp",
+                "file:///android_asset/bundled-images/motorcycle/generic-motorcycle/4.webp"
             ]
         },
         {
@@ -1073,12 +1073,12 @@
             "description": "Силиконовый чехол iPhone 12 с MagSafe сливовый - современный смартфон с передовыми технологиями и функциями.",
             "price": 2399.2,
             "rating": 3.62,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/2.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/3.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/4.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/2.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/3.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/4.webp"
             ]
         },
         {
@@ -1087,11 +1087,11 @@
             "description": "Часы Longines Master Collection - стильные часы, сочетающие функциональность и элегантность.",
             "price": 119999.2,
             "rating": 3.87,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-watches/longines-master-collection/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/3.webp"
+                "file:///android_asset/bundled-images/mens-watches/longines-master-collection/1.webp",
+                "file:///android_asset/bundled-images/mens-watches/longines-master-collection/2.webp",
+                "file:///android_asset/bundled-images/mens-watches/longines-master-collection/3.webp"
             ]
         },
         {
@@ -1100,12 +1100,12 @@
             "description": "Кроссовки Nike Air Jordan 1 красно-чёрные - удобная обувь на каждый день.",
             "price": 11999.2,
             "rating": 4.77,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
+                "file:///android_asset/bundled-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+                "file:///android_asset/bundled-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
+                "file:///android_asset/bundled-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
+                "file:///android_asset/bundled-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
             ]
         },
         {
@@ -1114,12 +1114,12 @@
             "description": "Сине-чёрная клетчатая рубашка - стильная одежда из качественных материалов.",
             "price": 2399.2,
             "rating": 3.64,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/4.webp"
+                "file:///android_asset/bundled-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+                "file:///android_asset/bundled-images/mens-shirts/blue-&-black-check-shirt/2.webp",
+                "file:///android_asset/bundled-images/mens-shirts/blue-&-black-check-shirt/3.webp",
+                "file:///android_asset/bundled-images/mens-shirts/blue-&-black-check-shirt/4.webp"
             ]
         },
         {
@@ -1128,11 +1128,11 @@
             "description": "Ноутбук Apple MacBook Pro 14 Space Grey - мощный ноутбук для работы, учёбы и развлечений.",
             "price": 159999.2,
             "rating": 3.65,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
+                "file:///android_asset/bundled-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+                "file:///android_asset/bundled-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
+                "file:///android_asset/bundled-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
             ]
         },
         {
@@ -1141,9 +1141,9 @@
             "description": "Полка для специй - качественный товар с отличными характеристиками.",
             "price": 1599.2,
             "rating": 4.87,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/spice-rack/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/spice-rack/1.webp"
             ]
         },
         {
@@ -1152,11 +1152,11 @@
             "description": "Декоративные качели - качественный товар с отличными характеристиками.",
             "price": 4799.2,
             "rating": 3.16,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/home-decoration/decoration-swing/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/2.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/3.webp"
+                "file:///android_asset/bundled-images/home-decoration/decoration-swing/1.webp",
+                "file:///android_asset/bundled-images/home-decoration/decoration-swing/2.webp",
+                "file:///android_asset/bundled-images/home-decoration/decoration-swing/3.webp"
             ]
         },
         {
@@ -1165,9 +1165,9 @@
             "description": "Рис - качественный товар с отличными характеристиками.",
             "price": 479.2,
             "rating": 3.18,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/rice/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+                "file:///android_asset/bundled-images/groceries/rice/1.webp"
             ]
         },
         {
@@ -1176,11 +1176,11 @@
             "description": "Кровать Annibale Colombo - качественная мебель для вашего дома.",
             "price": 151999.2,
             "rating": 4.77,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/furniture/annibale-colombo-bed/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+                "file:///android_asset/bundled-images/furniture/annibale-colombo-bed/1.webp",
+                "file:///android_asset/bundled-images/furniture/annibale-colombo-bed/2.webp",
+                "file:///android_asset/bundled-images/furniture/annibale-colombo-bed/3.webp"
             ]
         },
         {
@@ -1189,11 +1189,11 @@
             "description": "Парфюм Calvin Klein CK One - изысканный аромат для повседневного использования и особых случаев.",
             "price": 3999.2,
             "rating": 4.37,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+                "file:///android_asset/bundled-images/fragrances/calvin-klein-ck-one/1.webp",
+                "file:///android_asset/bundled-images/fragrances/calvin-klein-ck-one/2.webp",
+                "file:///android_asset/bundled-images/fragrances/calvin-klein-ck-one/3.webp"
             ]
         },
         {
@@ -1202,9 +1202,9 @@
             "description": "Тушь для ресниц Essence Lash Princess - качественное косметическое средство для создания красивого макияжа.",
             "price": 799.2,
             "rating": 2.56,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+                "file:///android_asset/bundled-images/beauty/essence-mascara-lash-princess/1.webp"
             ]
         },
         {
@@ -1213,11 +1213,11 @@
             "description": "Часы Rolex Cellini Moonphase - стильные часы, сочетающие функциональность и элегантность.",
             "price": 1279999.2,
             "rating": 3.83,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-watches/rolex-cellini-moonphase/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/3.webp"
+                "file:///android_asset/bundled-images/womens-watches/rolex-cellini-moonphase/1.webp",
+                "file:///android_asset/bundled-images/womens-watches/rolex-cellini-moonphase/2.webp",
+                "file:///android_asset/bundled-images/womens-watches/rolex-cellini-moonphase/3.webp"
             ]
         },
         {
@@ -1226,12 +1226,12 @@
             "description": "Туфли на каблуке Calvin Klein - удобная обувь на каждый день.",
             "price": 6399.2,
             "rating": 4.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/4.webp"
+                "file:///android_asset/bundled-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+                "file:///android_asset/bundled-images/womens-shoes/calvin-klein-heel-shoes/2.webp",
+                "file:///android_asset/bundled-images/womens-shoes/calvin-klein-heel-shoes/3.webp",
+                "file:///android_asset/bundled-images/womens-shoes/calvin-klein-heel-shoes/4.webp"
             ]
         },
         {
@@ -1240,12 +1240,12 @@
             "description": "Кожаный корсет с юбкой - качественный товар с отличными характеристиками.",
             "price": 7199.2,
             "rating": 3.05,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-dresses/corset-leather-with-skirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/4.webp"
+                "file:///android_asset/bundled-images/womens-dresses/corset-leather-with-skirt/1.webp",
+                "file:///android_asset/bundled-images/womens-dresses/corset-leather-with-skirt/2.webp",
+                "file:///android_asset/bundled-images/womens-dresses/corset-leather-with-skirt/3.webp",
+                "file:///android_asset/bundled-images/womens-dresses/corset-leather-with-skirt/4.webp"
             ]
         },
         {
@@ -1254,11 +1254,11 @@
             "description": "Женская кожаная сумка Heshe - практичный аксессуар для переноски вещей.",
             "price": 10399.2,
             "rating": 4.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/3.webp"
+                "file:///android_asset/bundled-images/womens-bags/heshe-women's-leather-bag/1.webp",
+                "file:///android_asset/bundled-images/womens-bags/heshe-women's-leather-bag/2.webp",
+                "file:///android_asset/bundled-images/womens-bags/heshe-women's-leather-bag/3.webp"
             ]
         },
         {
@@ -1267,14 +1267,14 @@
             "description": "Dodge Charger SXT RWD - комфортный автомобиль с современными функциями.",
             "price": 2639999.2,
             "rating": 2.58,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/1.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/2.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/3.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/4.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/5.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/6.webp"
+                "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/1.webp",
+                "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/2.webp",
+                "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/3.webp",
+                "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/4.webp",
+                "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/5.webp",
+                "file:///android_asset/bundled-images/vehicle/charger-sxt-rwd/6.webp"
             ]
         },
         {
@@ -1283,12 +1283,12 @@
             "description": "Летнее платье для девочки - стильная одежда из качественных материалов.",
             "price": 1599.2,
             "rating": 4.77,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tops/girl-summer-dress/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp",
-                "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/2.webp",
-                "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/3.webp",
-                "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/4.webp"
+                "file:///android_asset/bundled-images/tops/girl-summer-dress/1.webp",
+                "file:///android_asset/bundled-images/tops/girl-summer-dress/2.webp",
+                "file:///android_asset/bundled-images/tops/girl-summer-dress/3.webp",
+                "file:///android_asset/bundled-images/tops/girl-summer-dress/4.webp"
             ]
         },
         {
@@ -1297,11 +1297,11 @@
             "description": "Классические солнцезащитные очки - стильные очки с защитой от солнца.",
             "price": 1999.2,
             "rating": 3.86,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sunglasses/classic-sun-glasses/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/3.webp"
+                "file:///android_asset/bundled-images/sunglasses/classic-sun-glasses/1.webp",
+                "file:///android_asset/bundled-images/sunglasses/classic-sun-glasses/2.webp",
+                "file:///android_asset/bundled-images/sunglasses/classic-sun-glasses/3.webp"
             ]
         },
         {
@@ -1310,9 +1310,9 @@
             "description": "Металлическая бейсбольная бита - качественный товар с отличными характеристиками.",
             "price": 2399.2,
             "rating": 4.66,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/metal-baseball-bat/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/metal-baseball-bat/1.webp"
             ]
         },
         {
@@ -1321,11 +1321,11 @@
             "description": "Смартфон Samsung Galaxy S10 - современный смартфон с передовыми технологиями и функциями.",
             "price": 55999.2,
             "rating": 3.06,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s10/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/3.webp"
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s10/1.webp",
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s10/2.webp",
+                "file:///android_asset/bundled-images/smartphones/samsung-galaxy-s10/3.webp"
             ]
         },
         {
@@ -1334,12 +1334,12 @@
             "description": "Мотоцикл Kawasaki Z800 - надёжный транспорт для передвижения.",
             "price": 719999.2,
             "rating": 3.98,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/motorcycle/kawasaki-z800/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/2.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/3.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/4.webp"
+                "file:///android_asset/bundled-images/motorcycle/kawasaki-z800/1.webp",
+                "file:///android_asset/bundled-images/motorcycle/kawasaki-z800/2.webp",
+                "file:///android_asset/bundled-images/motorcycle/kawasaki-z800/3.webp",
+                "file:///android_asset/bundled-images/motorcycle/kawasaki-z800/4.webp"
             ]
         },
         {
@@ -1348,10 +1348,10 @@
             "description": "Монопод - качественный товар с отличными характеристиками.",
             "price": 1599.2,
             "rating": 4.43,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/monopod/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/2.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/monopod/1.webp",
+                "file:///android_asset/bundled-images/mobile-accessories/monopod/2.webp"
             ]
         },
         {
@@ -1360,11 +1360,11 @@
             "description": "Часы Rolex Cellini с чёрным циферблатом - стильные часы, сочетающие функциональность и элегантность.",
             "price": 719999.2,
             "rating": 4.97,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/3.webp"
+                "file:///android_asset/bundled-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-cellini-date-black-dial/2.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-cellini-date-black-dial/3.webp"
             ]
         },
         {
@@ -1373,12 +1373,12 @@
             "description": "Бейсбольные бутсы Nike - качественный товар с отличными характеристиками.",
             "price": 6399.2,
             "rating": 3.88,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/4.webp"
+                "file:///android_asset/bundled-images/mens-shoes/nike-baseball-cleats/1.webp",
+                "file:///android_asset/bundled-images/mens-shoes/nike-baseball-cleats/2.webp",
+                "file:///android_asset/bundled-images/mens-shoes/nike-baseball-cleats/3.webp",
+                "file:///android_asset/bundled-images/mens-shoes/nike-baseball-cleats/4.webp"
             ]
         },
         {
@@ -1387,12 +1387,12 @@
             "description": "Мужская футболка Gigabyte Aorus - стильная одежда из качественных материалов.",
             "price": 1999.2,
             "rating": 3.18,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/4.webp"
+                "file:///android_asset/bundled-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+                "file:///android_asset/bundled-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
+                "file:///android_asset/bundled-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp",
+                "file:///android_asset/bundled-images/mens-shirts/gigabyte-aorus-men-tshirt/4.webp"
             ]
         },
         {
@@ -1401,11 +1401,11 @@
             "description": "Ноутбук Asus Zenbook Pro с двумя экранами - мощный ноутбук для работы, учёбы и развлечений.",
             "price": 143999.2,
             "rating": 3.95,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/3.webp"
+                "file:///android_asset/bundled-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+                "file:///android_asset/bundled-images/laptops/asus-zenbook-pro-dual-screen-laptop/2.webp",
+                "file:///android_asset/bundled-images/laptops/asus-zenbook-pro-dual-screen-laptop/3.webp"
             ]
         },
         {
@@ -1414,9 +1414,9 @@
             "description": "Ложка - практичная кухонная утварь.",
             "price": 399.2,
             "rating": 4.03,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/spoon/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/spoon/1.webp"
             ]
         },
         {
@@ -1425,9 +1425,9 @@
             "description": "Фоторамка Семейное древо - качественный товар с отличными характеристиками.",
             "price": 2399.2,
             "rating": 4.53,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+                "file:///android_asset/bundled-images/home-decoration/family-tree-photo-frame/1.webp"
             ]
         },
         {
@@ -1436,9 +1436,9 @@
             "description": "Безалкогольные напитки - качественный товар с отличными характеристиками.",
             "price": 159.2,
             "rating": 4.75,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/soft-drinks/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+                "file:///android_asset/bundled-images/groceries/soft-drinks/1.webp"
             ]
         },
         {
@@ -1447,11 +1447,11 @@
             "description": "Диван Annibale Colombo - качественная мебель для вашего дома.",
             "price": 199999.2,
             "rating": 3.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/furniture/annibale-colombo-sofa/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+                "file:///android_asset/bundled-images/furniture/annibale-colombo-sofa/1.webp",
+                "file:///android_asset/bundled-images/furniture/annibale-colombo-sofa/2.webp",
+                "file:///android_asset/bundled-images/furniture/annibale-colombo-sofa/3.webp"
             ]
         },
         {
@@ -1460,11 +1460,11 @@
             "description": "Парфюм Chanel Coco Noir - изысканный аромат для повседневного использования и особых случаев.",
             "price": 10399.2,
             "rating": 4.26,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
+                "file:///android_asset/bundled-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+                "file:///android_asset/bundled-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+                "file:///android_asset/bundled-images/fragrances/chanel-coco-noir-eau-de/3.webp"
             ]
         },
         {
@@ -1473,9 +1473,9 @@
             "description": "Палетка теней с зеркалом - качественное косметическое средство для создания красивого макияжа.",
             "price": 1599.2,
             "rating": 2.86,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+                "file:///android_asset/bundled-images/beauty/eyeshadow-palette-with-mirror/1.webp"
             ]
         },
         {
@@ -1484,11 +1484,11 @@
             "description": "Женские часы Rolex Datejust - стильные часы, сочетающие функциональность и элегантность.",
             "price": 879999.2,
             "rating": 2.86,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-watches/rolex-datejust-women/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/3.webp"
+                "file:///android_asset/bundled-images/womens-watches/rolex-datejust-women/1.webp",
+                "file:///android_asset/bundled-images/womens-watches/rolex-datejust-women/2.webp",
+                "file:///android_asset/bundled-images/womens-watches/rolex-datejust-women/3.webp"
             ]
         },
         {
@@ -1497,12 +1497,12 @@
             "description": "Золотые женские туфли - удобная обувь на каждый день.",
             "price": 3999.2,
             "rating": 3.26,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-shoes/golden-shoes-woman/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/4.webp"
+                "file:///android_asset/bundled-images/womens-shoes/golden-shoes-woman/1.webp",
+                "file:///android_asset/bundled-images/womens-shoes/golden-shoes-woman/2.webp",
+                "file:///android_asset/bundled-images/womens-shoes/golden-shoes-woman/3.webp",
+                "file:///android_asset/bundled-images/womens-shoes/golden-shoes-woman/4.webp"
             ]
         },
         {
@@ -1511,11 +1511,11 @@
             "description": "Зелёные хрустальные серьги - изящное украшение для особых случаев.",
             "price": 2399.2,
             "rating": 3.96,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-jewellery/green-crystal-earring/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/3.webp"
+                "file:///android_asset/bundled-images/womens-jewellery/green-crystal-earring/1.webp",
+                "file:///android_asset/bundled-images/womens-jewellery/green-crystal-earring/2.webp",
+                "file:///android_asset/bundled-images/womens-jewellery/green-crystal-earring/3.webp"
             ]
         },
         {
@@ -1524,12 +1524,12 @@
             "description": "Корсет с чёрной юбкой - качественный товар с отличными характеристиками.",
             "price": 6399.2,
             "rating": 4.52,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-dresses/corset-with-black-skirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/4.webp"
+                "file:///android_asset/bundled-images/womens-dresses/corset-with-black-skirt/1.webp",
+                "file:///android_asset/bundled-images/womens-dresses/corset-with-black-skirt/2.webp",
+                "file:///android_asset/bundled-images/womens-dresses/corset-with-black-skirt/3.webp",
+                "file:///android_asset/bundled-images/womens-dresses/corset-with-black-skirt/4.webp"
             ]
         },
         {
@@ -1538,11 +1538,11 @@
             "description": "Женская сумка Prada - практичный аксессуар для переноски вещей.",
             "price": 47999.2,
             "rating": 2.71,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-bags/prada-women-bag/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/3.webp"
+                "file:///android_asset/bundled-images/womens-bags/prada-women-bag/1.webp",
+                "file:///android_asset/bundled-images/womens-bags/prada-women-bag/2.webp",
+                "file:///android_asset/bundled-images/womens-bags/prada-women-bag/3.webp"
             ]
         },
         {
@@ -1551,14 +1551,14 @@
             "description": "Автомобиль Dodge Hornet GT Plus - комфортный автомобиль с современными функциями.",
             "price": 1999999.2,
             "rating": 2.65,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/1.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/2.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/3.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/4.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/5.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/6.webp"
+                "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/1.webp",
+                "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/2.webp",
+                "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/3.webp",
+                "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/4.webp",
+                "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/5.webp",
+                "file:///android_asset/bundled-images/vehicle/dodge-hornet-gt-plus/6.webp"
             ]
         },
         {
@@ -1567,12 +1567,12 @@
             "description": "Серое платье - стильная одежда из качественных материалов.",
             "price": 2799.2,
             "rating": 2.72,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tops/gray-dress/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
-                "https://cdn.dummyjson.com/product-images/tops/gray-dress/2.webp",
-                "https://cdn.dummyjson.com/product-images/tops/gray-dress/3.webp",
-                "https://cdn.dummyjson.com/product-images/tops/gray-dress/4.webp"
+                "file:///android_asset/bundled-images/tops/gray-dress/1.webp",
+                "file:///android_asset/bundled-images/tops/gray-dress/2.webp",
+                "file:///android_asset/bundled-images/tops/gray-dress/3.webp",
+                "file:///android_asset/bundled-images/tops/gray-dress/4.webp"
             ]
         },
         {
@@ -1581,12 +1581,12 @@
             "description": "Планшет iPad Mini 2021 Starlight - удобный планшет для работы и развлечений.",
             "price": 39999.2,
             "rating": 3.18,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tablets/ipad-mini-2021-starlight/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/2.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/3.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/4.webp"
+                "file:///android_asset/bundled-images/tablets/ipad-mini-2021-starlight/1.webp",
+                "file:///android_asset/bundled-images/tablets/ipad-mini-2021-starlight/2.webp",
+                "file:///android_asset/bundled-images/tablets/ipad-mini-2021-starlight/3.webp",
+                "file:///android_asset/bundled-images/tablets/ipad-mini-2021-starlight/4.webp"
             ]
         },
         {
@@ -1595,11 +1595,11 @@
             "description": "Зелёно-чёрные очки - стильные очки с защитой от солнца.",
             "price": 2799.2,
             "rating": 4.55,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sunglasses/green-and-black-glasses/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/2.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/3.webp"
+                "file:///android_asset/bundled-images/sunglasses/green-and-black-glasses/1.webp",
+                "file:///android_asset/bundled-images/sunglasses/green-and-black-glasses/2.webp",
+                "file:///android_asset/bundled-images/sunglasses/green-and-black-glasses/3.webp"
             ]
         },
         {
@@ -1608,9 +1608,9 @@
             "description": "Теннисный мяч - спортивный инвентарь для активного образа жизни.",
             "price": 559.2,
             "rating": 4.06,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/tennis-ball/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/tennis-ball/1.webp"
             ]
         },
         {
@@ -1619,11 +1619,11 @@
             "description": "Смартфон Vivo S1 - современный смартфон с передовыми технологиями и функциями.",
             "price": 19999.2,
             "rating": 3.5,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/vivo-s1/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/3.webp"
+                "file:///android_asset/bundled-images/smartphones/vivo-s1/1.webp",
+                "file:///android_asset/bundled-images/smartphones/vivo-s1/2.webp",
+                "file:///android_asset/bundled-images/smartphones/vivo-s1/3.webp"
             ]
         },
         {
@@ -1632,11 +1632,11 @@
             "description": "Жидкое мыло Attitude Super Leaves - качественный товар с отличными характеристиками.",
             "price": 719.2,
             "rating": 3.19,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
-                "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/2.webp",
-                "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/3.webp"
+                "file:///android_asset/bundled-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+                "file:///android_asset/bundled-images/skin-care/attitude-super-leaves-hand-soap/2.webp",
+                "file:///android_asset/bundled-images/skin-care/attitude-super-leaves-hand-soap/3.webp"
             ]
         },
         {
@@ -1645,12 +1645,12 @@
             "description": "Мотоцикл MotoGP CI.H1 - надёжный транспорт для передвижения.",
             "price": 1199999.2,
             "rating": 2.97,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/motorcycle/motogp-ci.h1/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/1.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/2.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/3.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/4.webp"
+                "file:///android_asset/bundled-images/motorcycle/motogp-ci.h1/1.webp",
+                "file:///android_asset/bundled-images/motorcycle/motogp-ci.h1/2.webp",
+                "file:///android_asset/bundled-images/motorcycle/motogp-ci.h1/3.webp",
+                "file:///android_asset/bundled-images/motorcycle/motogp-ci.h1/4.webp"
             ]
         },
         {
@@ -1659,9 +1659,9 @@
             "description": "Селфи-лампа с iPhone - современный смартфон с передовыми технологиями и функциями.",
             "price": 1199.2,
             "rating": 3.55,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
             ]
         },
         {
@@ -1670,11 +1670,11 @@
             "description": "Часы Rolex Cellini Moonphase - стильные часы, сочетающие функциональность и элегантность.",
             "price": 1039999.2,
             "rating": 2.58,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/3.webp"
+                "file:///android_asset/bundled-images/mens-watches/rolex-cellini-moonphase/1.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-cellini-moonphase/2.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-cellini-moonphase/3.webp"
             ]
         },
         {
@@ -1683,12 +1683,12 @@
             "description": "Кроссовки Puma Future Rider - удобная обувь на каждый день.",
             "price": 7199.2,
             "rating": 4.9,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/4.webp"
+                "file:///android_asset/bundled-images/mens-shoes/puma-future-rider-trainers/1.webp",
+                "file:///android_asset/bundled-images/mens-shoes/puma-future-rider-trainers/2.webp",
+                "file:///android_asset/bundled-images/mens-shoes/puma-future-rider-trainers/3.webp",
+                "file:///android_asset/bundled-images/mens-shoes/puma-future-rider-trainers/4.webp"
             ]
         },
         {
@@ -1697,12 +1697,12 @@
             "description": "Мужская клетчатая рубашка - стильная одежда из качественных материалов.",
             "price": 2799.2,
             "rating": 3.46,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/4.webp"
+                "file:///android_asset/bundled-images/mens-shirts/man-plaid-shirt/1.webp",
+                "file:///android_asset/bundled-images/mens-shirts/man-plaid-shirt/2.webp",
+                "file:///android_asset/bundled-images/mens-shirts/man-plaid-shirt/3.webp",
+                "file:///android_asset/bundled-images/mens-shirts/man-plaid-shirt/4.webp"
             ]
         },
         {
@@ -1711,11 +1711,11 @@
             "description": "Ноутбук Huawei Matebook X Pro - современный смартфон с передовыми технологиями и функциями.",
             "price": 111999.2,
             "rating": 4.98,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/3.webp"
+                "file:///android_asset/bundled-images/laptops/huawei-matebook-x-pro/1.webp",
+                "file:///android_asset/bundled-images/laptops/huawei-matebook-x-pro/2.webp",
+                "file:///android_asset/bundled-images/laptops/huawei-matebook-x-pro/3.webp"
             ]
         },
         {
@@ -1724,9 +1724,9 @@
             "description": "Поднос - качественный товар с отличными характеристиками.",
             "price": 1359.2,
             "rating": 4.62,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/tray/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/tray/1.webp"
             ]
         },
         {
@@ -1735,11 +1735,11 @@
             "description": "Декоративное растение - качественное косметическое средство для создания красивого макияжа.",
             "price": 3199.2,
             "rating": 4.67,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/home-decoration/house-showpiece-plant/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
+                "file:///android_asset/bundled-images/home-decoration/house-showpiece-plant/1.webp",
+                "file:///android_asset/bundled-images/home-decoration/house-showpiece-plant/2.webp",
+                "file:///android_asset/bundled-images/home-decoration/house-showpiece-plant/3.webp"
             ]
         },
         {
@@ -1748,9 +1748,9 @@
             "description": "Клубника - качественный товар с отличными характеристиками.",
             "price": 319.2,
             "rating": 3.08,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/strawberry/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+                "file:///android_asset/bundled-images/groceries/strawberry/1.webp"
             ]
         },
         {
@@ -1759,11 +1759,11 @@
             "description": "Прикроватный столик из африканской вишни - качественная мебель для вашего дома.",
             "price": 23999.2,
             "rating": 2.87,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/furniture/bedside-table-african-cherry/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+                "file:///android_asset/bundled-images/furniture/bedside-table-african-cherry/1.webp",
+                "file:///android_asset/bundled-images/furniture/bedside-table-african-cherry/2.webp",
+                "file:///android_asset/bundled-images/furniture/bedside-table-african-cherry/3.webp"
             ]
         },
         {
@@ -1772,11 +1772,11 @@
             "description": "Парфюм Dior J'adore - изысканный аромат для повседневного использования и особых случаев.",
             "price": 7199.2,
             "rating": 3.8,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/fragrances/dior-j'adore/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+                "file:///android_asset/bundled-images/fragrances/dior-j'adore/1.webp",
+                "file:///android_asset/bundled-images/fragrances/dior-j'adore/2.webp",
+                "file:///android_asset/bundled-images/fragrances/dior-j'adore/3.webp"
             ]
         },
         {
@@ -1785,9 +1785,9 @@
             "description": "Пудра в футляре - качественное косметическое средство для создания красивого макияжа.",
             "price": 1199.2,
             "rating": 4.64,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/beauty/powder-canister/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+                "file:///android_asset/bundled-images/beauty/powder-canister/1.webp"
             ]
         },
         {
@@ -1796,11 +1796,11 @@
             "description": "Золотые женские часы - стильные часы, сочетающие функциональность и элегантность.",
             "price": 63999.2,
             "rating": 4.24,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-watches/watch-gold-for-women/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/3.webp"
+                "file:///android_asset/bundled-images/womens-watches/watch-gold-for-women/1.webp",
+                "file:///android_asset/bundled-images/womens-watches/watch-gold-for-women/2.webp",
+                "file:///android_asset/bundled-images/womens-watches/watch-gold-for-women/3.webp"
             ]
         },
         {
@@ -1809,12 +1809,12 @@
             "description": "Туфли Pampi - удобная обувь на каждый день.",
             "price": 2399.2,
             "rating": 3.05,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-shoes/pampi-shoes/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/4.webp"
+                "file:///android_asset/bundled-images/womens-shoes/pampi-shoes/1.webp",
+                "file:///android_asset/bundled-images/womens-shoes/pampi-shoes/2.webp",
+                "file:///android_asset/bundled-images/womens-shoes/pampi-shoes/3.webp",
+                "file:///android_asset/bundled-images/womens-shoes/pampi-shoes/4.webp"
             ]
         },
         {
@@ -1823,11 +1823,11 @@
             "description": "Зелёные овальные серьги - изящное украшение для особых случаев.",
             "price": 1999.2,
             "rating": 3.57,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-jewellery/green-oval-earring/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/3.webp"
+                "file:///android_asset/bundled-images/womens-jewellery/green-oval-earring/1.webp",
+                "file:///android_asset/bundled-images/womens-jewellery/green-oval-earring/2.webp",
+                "file:///android_asset/bundled-images/womens-jewellery/green-oval-earring/3.webp"
             ]
         },
         {
@@ -1836,12 +1836,12 @@
             "description": "Платье Pea - стильная одежда из качественных материалов.",
             "price": 3999.2,
             "rating": 4.88,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-dresses/dress-pea/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/4.webp"
+                "file:///android_asset/bundled-images/womens-dresses/dress-pea/1.webp",
+                "file:///android_asset/bundled-images/womens-dresses/dress-pea/2.webp",
+                "file:///android_asset/bundled-images/womens-dresses/dress-pea/3.webp",
+                "file:///android_asset/bundled-images/womens-dresses/dress-pea/4.webp"
             ]
         },
         {
@@ -1850,11 +1850,11 @@
             "description": "Белый рюкзак из искусственной кожи - практичный аксессуар для переноски вещей.",
             "price": 3199.2,
             "rating": 3.36,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-bags/white-faux-leather-backpack/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/3.webp"
+                "file:///android_asset/bundled-images/womens-bags/white-faux-leather-backpack/1.webp",
+                "file:///android_asset/bundled-images/womens-bags/white-faux-leather-backpack/2.webp",
+                "file:///android_asset/bundled-images/womens-bags/white-faux-leather-backpack/3.webp"
             ]
         },
         {
@@ -1863,14 +1863,14 @@
             "description": "Dodge Durango SXT RWD - комфортный автомобиль с современными функциями.",
             "price": 2959999.2,
             "rating": 4.07,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/1.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/2.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/3.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/4.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/5.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/6.webp"
+                "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/1.webp",
+                "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/2.webp",
+                "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/3.webp",
+                "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/4.webp",
+                "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/5.webp",
+                "file:///android_asset/bundled-images/vehicle/durango-sxt-rwd/6.webp"
             ]
         },
         {
@@ -1879,12 +1879,12 @@
             "description": "Короткое платье - стильная одежда из качественных материалов.",
             "price": 1999.2,
             "rating": 3.23,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tops/short-frock/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tops/short-frock/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tops/short-frock/1.webp",
-                "https://cdn.dummyjson.com/product-images/tops/short-frock/2.webp",
-                "https://cdn.dummyjson.com/product-images/tops/short-frock/3.webp",
-                "https://cdn.dummyjson.com/product-images/tops/short-frock/4.webp"
+                "file:///android_asset/bundled-images/tops/short-frock/1.webp",
+                "file:///android_asset/bundled-images/tops/short-frock/2.webp",
+                "file:///android_asset/bundled-images/tops/short-frock/3.webp",
+                "file:///android_asset/bundled-images/tops/short-frock/4.webp"
             ]
         },
         {
@@ -1893,12 +1893,12 @@
             "description": "Планшет Samsung Galaxy Tab S8 Plus Grey - современный смартфон с передовыми технологиями и функциями.",
             "price": 47999.2,
             "rating": 4.68,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/3.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/4.webp"
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp",
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-s8-plus-grey/3.webp",
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-s8-plus-grey/4.webp"
             ]
         },
         {
@@ -1907,11 +1907,11 @@
             "description": "Праздничные очки - стильные очки с защитой от солнца.",
             "price": 1599.2,
             "rating": 2.79,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sunglasses/party-glasses/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/2.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/3.webp"
+                "file:///android_asset/bundled-images/sunglasses/party-glasses/1.webp",
+                "file:///android_asset/bundled-images/sunglasses/party-glasses/2.webp",
+                "file:///android_asset/bundled-images/sunglasses/party-glasses/3.webp"
             ]
         },
         {
@@ -1920,9 +1920,9 @@
             "description": "Теннисная ракетка - качественный товар с отличными характеристиками.",
             "price": 3999.2,
             "rating": 4.03,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/tennis-racket/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/tennis-racket/1.webp"
             ]
         },
         {
@@ -1931,11 +1931,11 @@
             "description": "Смартфон Vivo V9 - современный смартфон с передовыми технологиями и функциями.",
             "price": 23999.2,
             "rating": 3.6,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/vivo-v9/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/3.webp"
+                "file:///android_asset/bundled-images/smartphones/vivo-v9/1.webp",
+                "file:///android_asset/bundled-images/smartphones/vivo-v9/2.webp",
+                "file:///android_asset/bundled-images/smartphones/vivo-v9/3.webp"
             ]
         },
         {
@@ -1944,11 +1944,11 @@
             "description": "Гель для душа Olay с маслом ши - качественный товар с отличными характеристиками.",
             "price": 1039.2,
             "rating": 4.51,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
-                "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/2.webp",
-                "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/3.webp"
+                "file:///android_asset/bundled-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
+                "file:///android_asset/bundled-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/2.webp",
+                "file:///android_asset/bundled-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/3.webp"
             ]
         },
         {
@@ -1957,12 +1957,12 @@
             "description": "Скутер - надёжный транспорт для передвижения.",
             "price": 239999.2,
             "rating": 2.53,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/motorcycle/scooter-motorcycle/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/2.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/3.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/4.webp"
+                "file:///android_asset/bundled-images/motorcycle/scooter-motorcycle/1.webp",
+                "file:///android_asset/bundled-images/motorcycle/scooter-motorcycle/2.webp",
+                "file:///android_asset/bundled-images/motorcycle/scooter-motorcycle/3.webp",
+                "file:///android_asset/bundled-images/motorcycle/scooter-motorcycle/4.webp"
             ]
         },
         {
@@ -1971,9 +1971,9 @@
             "description": "Селфи-палка монопод - качественный товар с отличными характеристиками.",
             "price": 1039.2,
             "rating": 3.88,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/selfie-stick-monopod/1.webp"
             ]
         },
         {
@@ -1982,11 +1982,11 @@
             "description": "Часы Rolex Datejust - стильные часы, сочетающие функциональность и элегантность.",
             "price": 879999.2,
             "rating": 3.66,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-watches/rolex-datejust/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/3.webp"
+                "file:///android_asset/bundled-images/mens-watches/rolex-datejust/1.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-datejust/2.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-datejust/3.webp"
             ]
         },
         {
@@ -1995,12 +1995,12 @@
             "description": "Спортивные кроссовки бело-красные - спортивный инвентарь для активного образа жизни.",
             "price": 9599.2,
             "rating": 4.77,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/4.webp"
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-&-red/2.webp",
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-&-red/3.webp",
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-&-red/4.webp"
             ]
         },
         {
@@ -2009,12 +2009,12 @@
             "description": "Мужская рубашка с коротким рукавом - стильная одежда из качественных материалов.",
             "price": 1599.2,
             "rating": 2.9,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/4.webp"
+                "file:///android_asset/bundled-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+                "file:///android_asset/bundled-images/mens-shirts/man-short-sleeve-shirt/2.webp",
+                "file:///android_asset/bundled-images/mens-shirts/man-short-sleeve-shirt/3.webp",
+                "file:///android_asset/bundled-images/mens-shirts/man-short-sleeve-shirt/4.webp"
             ]
         },
         {
@@ -2023,11 +2023,11 @@
             "description": "Ноутбук Lenovo Yoga 920 - мощный ноутбук для работы, учёбы и развлечений.",
             "price": 87999.2,
             "rating": 2.86,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/laptops/lenovo-yoga-920/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/2.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/3.webp"
+                "file:///android_asset/bundled-images/laptops/lenovo-yoga-920/1.webp",
+                "file:///android_asset/bundled-images/laptops/lenovo-yoga-920/2.webp",
+                "file:///android_asset/bundled-images/laptops/lenovo-yoga-920/3.webp"
             ]
         },
         {
@@ -2036,9 +2036,9 @@
             "description": "Деревянная скалка - качественный товар с отличными характеристиками.",
             "price": 959.2,
             "rating": 2.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/wooden-rolling-pin/1.webp"
             ]
         },
         {
@@ -2047,12 +2047,12 @@
             "description": "Горшок для растений - качественное косметическое средство для создания красивого макияжа.",
             "price": 1199.2,
             "rating": 3.01,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/home-decoration/plant-pot/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/3.webp",
-                "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/4.webp"
+                "file:///android_asset/bundled-images/home-decoration/plant-pot/1.webp",
+                "file:///android_asset/bundled-images/home-decoration/plant-pot/2.webp",
+                "file:///android_asset/bundled-images/home-decoration/plant-pot/3.webp",
+                "file:///android_asset/bundled-images/home-decoration/plant-pot/4.webp"
             ]
         },
         {
@@ -2061,10 +2061,10 @@
             "description": "Коробка салфеток - качественный товар с отличными характеристиками.",
             "price": 199.2,
             "rating": 2.69,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/tissue-paper-box/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp",
-                "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/2.webp"
+                "file:///android_asset/bundled-images/groceries/tissue-paper-box/1.webp",
+                "file:///android_asset/bundled-images/groceries/tissue-paper-box/2.webp"
             ]
         },
         {
@@ -2073,11 +2073,11 @@
             "description": "Офисное кресло Knoll Saarinen - качественная мебель для вашего дома.",
             "price": 39999.2,
             "rating": 4.88,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+                "file:///android_asset/bundled-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+                "file:///android_asset/bundled-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+                "file:///android_asset/bundled-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
             ]
         },
         {
@@ -2086,11 +2086,11 @@
             "description": "Парфюм Dolce Shine - изысканный аромат для повседневного использования и особых случаев.",
             "price": 5599.2,
             "rating": 3.96,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+                "file:///android_asset/bundled-images/fragrances/dolce-shine-eau-de/1.webp",
+                "file:///android_asset/bundled-images/fragrances/dolce-shine-eau-de/2.webp",
+                "file:///android_asset/bundled-images/fragrances/dolce-shine-eau-de/3.webp"
             ]
         },
         {
@@ -2099,9 +2099,9 @@
             "description": "Красная помада - качественное косметическое средство для создания красивого макияжа.",
             "price": 1039.2,
             "rating": 4.36,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/beauty/red-lipstick/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+                "file:///android_asset/bundled-images/beauty/red-lipstick/1.webp"
             ]
         },
         {
@@ -2110,11 +2110,11 @@
             "description": "Женские наручные часы - стильные часы, сочетающие функциональность и элегантность.",
             "price": 10399.2,
             "rating": 3.52,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-watches/women's-wrist-watch/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/3.webp"
+                "file:///android_asset/bundled-images/womens-watches/women's-wrist-watch/1.webp",
+                "file:///android_asset/bundled-images/womens-watches/women's-wrist-watch/2.webp",
+                "file:///android_asset/bundled-images/womens-watches/women's-wrist-watch/3.webp"
             ]
         },
         {
@@ -2123,12 +2123,12 @@
             "description": "Красные туфли - удобная обувь на каждый день.",
             "price": 2799.2,
             "rating": 3.25,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-shoes/red-shoes/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/4.webp"
+                "file:///android_asset/bundled-images/womens-shoes/red-shoes/1.webp",
+                "file:///android_asset/bundled-images/womens-shoes/red-shoes/2.webp",
+                "file:///android_asset/bundled-images/womens-shoes/red-shoes/3.webp",
+                "file:///android_asset/bundled-images/womens-shoes/red-shoes/4.webp"
             ]
         },
         {
@@ -2137,11 +2137,11 @@
             "description": "Тропические серьги - изящное украшение для особых случаев.",
             "price": 1599.2,
             "rating": 4.4,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-jewellery/tropical-earring/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/3.webp"
+                "file:///android_asset/bundled-images/womens-jewellery/tropical-earring/1.webp",
+                "file:///android_asset/bundled-images/womens-jewellery/tropical-earring/2.webp",
+                "file:///android_asset/bundled-images/womens-jewellery/tropical-earring/3.webp"
             ]
         },
         {
@@ -2150,12 +2150,12 @@
             "description": "Красно-чёрный костюм Marni - качественный товар с отличными характеристиками.",
             "price": 14399.2,
             "rating": 4.48,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/3.webp",
-                "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/4.webp"
+                "file:///android_asset/bundled-images/womens-dresses/marni-red-&-black-suit/1.webp",
+                "file:///android_asset/bundled-images/womens-dresses/marni-red-&-black-suit/2.webp",
+                "file:///android_asset/bundled-images/womens-dresses/marni-red-&-black-suit/3.webp",
+                "file:///android_asset/bundled-images/womens-dresses/marni-red-&-black-suit/4.webp"
             ]
         },
         {
@@ -2164,11 +2164,11 @@
             "description": "Чёрная женская сумка - практичный аксессуар для переноски вещей.",
             "price": 4799.2,
             "rating": 2.89,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/womens-bags/women-handbag-black/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/2.webp",
-                "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/3.webp"
+                "file:///android_asset/bundled-images/womens-bags/women-handbag-black/1.webp",
+                "file:///android_asset/bundled-images/womens-bags/women-handbag-black/2.webp",
+                "file:///android_asset/bundled-images/womens-bags/women-handbag-black/3.webp"
             ]
         },
         {
@@ -2177,14 +2177,14 @@
             "description": "Chrysler Pacifica Touring - комфортный автомобиль с современными функциями.",
             "price": 2559999.2,
             "rating": 3.62,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/vehicle/pacifica-touring/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/1.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/2.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/3.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/4.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/5.webp",
-                "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/6.webp"
+                "file:///android_asset/bundled-images/vehicle/pacifica-touring/1.webp",
+                "file:///android_asset/bundled-images/vehicle/pacifica-touring/2.webp",
+                "file:///android_asset/bundled-images/vehicle/pacifica-touring/3.webp",
+                "file:///android_asset/bundled-images/vehicle/pacifica-touring/4.webp",
+                "file:///android_asset/bundled-images/vehicle/pacifica-touring/5.webp",
+                "file:///android_asset/bundled-images/vehicle/pacifica-touring/6.webp"
             ]
         },
         {
@@ -2193,12 +2193,12 @@
             "description": "Платье в шотландскую клетку - стильная одежда из качественных материалов.",
             "price": 3199.2,
             "rating": 4.05,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tops/tartan-dress/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
-                "https://cdn.dummyjson.com/product-images/tops/tartan-dress/2.webp",
-                "https://cdn.dummyjson.com/product-images/tops/tartan-dress/3.webp",
-                "https://cdn.dummyjson.com/product-images/tops/tartan-dress/4.webp"
+                "file:///android_asset/bundled-images/tops/tartan-dress/1.webp",
+                "file:///android_asset/bundled-images/tops/tartan-dress/2.webp",
+                "file:///android_asset/bundled-images/tops/tartan-dress/3.webp",
+                "file:///android_asset/bundled-images/tops/tartan-dress/4.webp"
             ]
         },
         {
@@ -2207,12 +2207,12 @@
             "description": "Планшет Samsung Galaxy Tab White - современный смартфон с передовыми технологиями и функциями.",
             "price": 27999.2,
             "rating": 3.72,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/2.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/3.webp",
-                "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/4.webp"
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-white/1.webp",
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-white/2.webp",
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-white/3.webp",
+                "file:///android_asset/bundled-images/tablets/samsung-galaxy-tab-white/4.webp"
             ]
         },
         {
@@ -2221,11 +2221,11 @@
             "description": "Солнцезащитные очки - стильные очки с защитой от солнца.",
             "price": 1839.2,
             "rating": 3.02,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sunglasses/sunglasses/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/2.webp",
-                "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/3.webp"
+                "file:///android_asset/bundled-images/sunglasses/sunglasses/1.webp",
+                "file:///android_asset/bundled-images/sunglasses/sunglasses/2.webp",
+                "file:///android_asset/bundled-images/sunglasses/sunglasses/3.webp"
             ]
         },
         {
@@ -2234,9 +2234,9 @@
             "description": "Волейбольный мяч - спортивный инвентарь для активного образа жизни.",
             "price": 959.2,
             "rating": 3.84,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/sports-accessories/volleyball/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"
+                "file:///android_asset/bundled-images/sports-accessories/volleyball/1.webp"
             ]
         },
         {
@@ -2245,11 +2245,11 @@
             "description": "Смартфон Vivo X21 - современный смартфон с передовыми технологиями и функциями.",
             "price": 39999.2,
             "rating": 4.26,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/smartphones/vivo-x21/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/2.webp",
-                "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/3.webp"
+                "file:///android_asset/bundled-images/smartphones/vivo-x21/1.webp",
+                "file:///android_asset/bundled-images/smartphones/vivo-x21/2.webp",
+                "file:///android_asset/bundled-images/smartphones/vivo-x21/3.webp"
             ]
         },
         {
@@ -2258,11 +2258,11 @@
             "description": "Лосьон Vaseline Men для тела и лица - качественный товар с отличными характеристиками.",
             "price": 799.2,
             "rating": 3.16,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
-                "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/2.webp",
-                "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/3.webp"
+                "file:///android_asset/bundled-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
+                "file:///android_asset/bundled-images/skin-care/vaseline-men-body-and-face-lotion/2.webp",
+                "file:///android_asset/bundled-images/skin-care/vaseline-men-body-and-face-lotion/3.webp"
             ]
         },
         {
@@ -2271,12 +2271,12 @@
             "description": "Спортивный мотоцикл - спортивный инвентарь для активного образа жизни.",
             "price": 599999.2,
             "rating": 3.94,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/2.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/3.webp",
-                "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/4.webp"
+                "file:///android_asset/bundled-images/motorcycle/sportbike-motorcycle/1.webp",
+                "file:///android_asset/bundled-images/motorcycle/sportbike-motorcycle/2.webp",
+                "file:///android_asset/bundled-images/motorcycle/sportbike-motorcycle/3.webp",
+                "file:///android_asset/bundled-images/motorcycle/sportbike-motorcycle/4.webp"
             ]
         },
         {
@@ -2285,9 +2285,9 @@
             "description": "Студийная камера на постаменте - профессиональная камера для создания качественных снимков.",
             "price": 39999.2,
             "rating": 2.78,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
+                "file:///android_asset/bundled-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
             ]
         },
         {
@@ -2296,11 +2296,11 @@
             "description": "Часы Rolex Submariner - стильные часы, сочетающие функциональность и элегантность.",
             "price": 1119999.2,
             "rating": 2.69,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/3.webp"
+                "file:///android_asset/bundled-images/mens-watches/rolex-submariner-watch/1.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-submariner-watch/2.webp",
+                "file:///android_asset/bundled-images/mens-watches/rolex-submariner-watch/3.webp"
             ]
         },
         {
@@ -2309,12 +2309,12 @@
             "description": "Спортивные кроссовки бело-красные - спортивный инвентарь для активного образа жизни.",
             "price": 8799.2,
             "rating": 4.69,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/4.webp"
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-red/3.webp",
+                "file:///android_asset/bundled-images/mens-shoes/sports-sneakers-off-white-red/4.webp"
             ]
         },
         {
@@ -2323,12 +2323,12 @@
             "description": "Мужская клетчатая рубашка - стильная одежда из качественных материалов.",
             "price": 2239.2,
             "rating": 2.72,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/mens-shirts/men-check-shirt/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/2.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/3.webp",
-                "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/4.webp"
+                "file:///android_asset/bundled-images/mens-shirts/men-check-shirt/1.webp",
+                "file:///android_asset/bundled-images/mens-shirts/men-check-shirt/2.webp",
+                "file:///android_asset/bundled-images/mens-shirts/men-check-shirt/3.webp",
+                "file:///android_asset/bundled-images/mens-shirts/men-check-shirt/4.webp"
             ]
         },
         {
@@ -2337,11 +2337,11 @@
             "description": "Ноутбук DELL XPS 13 9300 - мощный ноутбук для работы, учёбы и развлечений.",
             "price": 119999.2,
             "rating": 2.67,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
-                "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+                "file:///android_asset/bundled-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+                "file:///android_asset/bundled-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+                "file:///android_asset/bundled-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
             ]
         },
         {
@@ -2350,9 +2350,9 @@
             "description": "Жёлтая овощечистка - свежий качественный продукт.",
             "price": 479.2,
             "rating": 4.24,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/yellow-peeler/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/1.webp"
+                "file:///android_asset/bundled-images/kitchen-accessories/yellow-peeler/1.webp"
             ]
         },
         {
@@ -2361,9 +2361,9 @@
             "description": "Настольная лампа - качественная мебель для вашего дома.",
             "price": 3999.2,
             "rating": 3.55,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/home-decoration/table-lamp/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+                "file:///android_asset/bundled-images/home-decoration/table-lamp/1.webp"
             ]
         },
         {
@@ -2372,9 +2372,9 @@
             "description": "Вода - свежий качественный продукт.",
             "price": 79.2,
             "rating": 4.96,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/groceries/water/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+                "file:///android_asset/bundled-images/groceries/water/1.webp"
             ]
         },
         {
@@ -2383,11 +2383,11 @@
             "description": "Деревянная раковина с зеркалом - качественный товар с отличными характеристиками.",
             "price": 63999.2,
             "rating": 3.59,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
-                "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
+                "file:///android_asset/bundled-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+                "file:///android_asset/bundled-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
+                "file:///android_asset/bundled-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
             ]
         },
         {
@@ -2396,11 +2396,11 @@
             "description": "Парфюм Gucci Bloom - изысканный аромат для повседневного использования и особых случаев.",
             "price": 6399.2,
             "rating": 2.74,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
-                "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/3.webp"
+                "file:///android_asset/bundled-images/fragrances/gucci-bloom-eau-de/1.webp",
+                "file:///android_asset/bundled-images/fragrances/gucci-bloom-eau-de/2.webp",
+                "file:///android_asset/bundled-images/fragrances/gucci-bloom-eau-de/3.webp"
             ]
         },
         {
@@ -2409,9 +2409,76 @@
             "description": "Красный лак для ногтей - качественное косметическое средство для создания красивого макияжа.",
             "price": 719.2,
             "rating": 4.32,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+            "thumbnail": "file:///android_asset/bundled-images/beauty/red-nail-polish/thumbnail.webp",
             "images": [
-                "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+                "file:///android_asset/bundled-images/beauty/red-nail-polish/1.webp"
+            ]
+        },
+        {
+            "id": 195,
+            "title": "Бамбуковая лопатка · 195",
+            "description": "Бамбуковая лопатка - качественный товар с отличными характеристиками.",
+            "price": 639.2,
+            "rating": 3.27,
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+            "images": [
+                "file:///android_asset/bundled-images/kitchen-accessories/bamboo-spatula/1.webp"
+            ]
+        },
+        {
+            "id": 196,
+            "title": "Яблоко · 196",
+            "description": "Яблоко - качественный товар с отличными характеристиками.",
+            "price": 159.2,
+            "rating": 4.19,
+            "thumbnail": "file:///android_asset/bundled-images/groceries/apple/thumbnail.webp",
+            "images": [
+                "file:///android_asset/bundled-images/groceries/apple/1.webp"
+            ]
+        },
+        {
+            "id": 197,
+            "title": "Чёрная алюминиевая кружка · 197",
+            "description": "Чёрная алюминиевая кружка - качественный товар с отличными характеристиками.",
+            "price": 479.2,
+            "rating": 4.46,
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+            "images": [
+                "file:///android_asset/bundled-images/kitchen-accessories/black-aluminium-cup/1.webp",
+                "file:///android_asset/bundled-images/kitchen-accessories/black-aluminium-cup/2.webp"
+            ]
+        },
+        {
+            "id": 198,
+            "title": "Говяжий стейк · 198",
+            "description": "Говяжий стейк - качественный товар с отличными характеристиками.",
+            "price": 1039.2,
+            "rating": 4.47,
+            "thumbnail": "file:///android_asset/bundled-images/groceries/beef-steak/thumbnail.webp",
+            "images": [
+                "file:///android_asset/bundled-images/groceries/beef-steak/1.webp"
+            ]
+        },
+        {
+            "id": 199,
+            "title": "Чёрный венчик · 199",
+            "description": "Чёрный венчик - качественный товар с отличными характеристиками.",
+            "price": 799.2,
+            "rating": 3.9,
+            "thumbnail": "file:///android_asset/bundled-images/kitchen-accessories/black-whisk/thumbnail.webp",
+            "images": [
+                "file:///android_asset/bundled-images/kitchen-accessories/black-whisk/1.webp"
+            ]
+        },
+        {
+            "id": 200,
+            "title": "Корм для кошек · 200",
+            "description": "Корм для кошек - свежий качественный продукт.",
+            "price": 719.2,
+            "rating": 3.13,
+            "thumbnail": "file:///android_asset/bundled-images/groceries/cat-food/thumbnail.webp",
+            "images": [
+                "file:///android_asset/bundled-images/groceries/cat-food/1.webp"
             ]
         }
     ],

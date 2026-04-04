@@ -4,7 +4,9 @@ import com.arekalov.researchapp.domain.model.PaginationMode
 import com.arekalov.researchapp.domain.model.Product
 import com.arekalov.researchapp.presentation.products.ProductsState
 
-private const val PLACEHOLDER_IMAGE = "https://picsum.photos/seed/preview/400/400"
+/** Локальный ассет из каталога bundled-images (без сети). */
+private const val PLACEHOLDER_IMAGE =
+    "file:///android_asset/bundled-images/groceries/apple/thumbnail.webp"
 
 fun previewProduct(
     id: Int = 1,

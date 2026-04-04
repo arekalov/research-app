@@ -29,6 +29,7 @@ import com.arekalov.researchapp.presentation.preview.previewProduct
 import com.arekalov.researchapp.ui.theme.ResearchappTheme
 import com.arekalov.researchapp.util.HighlightConfig
 import com.arekalov.researchapp.util.formatRubPrice
+import com.arekalov.researchapp.util.glideImageModel
 import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 import com.bumptech.glide.integration.compose.GlideImage
 
@@ -78,7 +79,7 @@ fun ProductCard(
             verticalAlignment = Alignment.CenterVertically
         ) {
             GlideImage(
-                model = product.thumbnail,
+                model = glideImageModel(product.thumbnail),
                 contentDescription = product.title,
                 modifier = Modifier
                     .size(80.dp),
